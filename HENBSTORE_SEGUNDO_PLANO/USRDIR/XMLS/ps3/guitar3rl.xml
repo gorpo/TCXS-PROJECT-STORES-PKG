@@ -1,0 +1,35 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | GUITAR HERO 3 LEGENDS OF ROCK -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/guitar3rl.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Guitar Hero 3 Legends of Rock</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/y0ab0n21fe8ukya/1DGAME-NPEB00134_00-NPEB001340000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | GUITAR HERO 3 LEGENDS OF ROCK -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/guitar3rl.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Guitar Hero 3 Legends of Rock</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/xk4xphf7k4o1nyr/2DGAME-NPEB00134_00-NPEB001340000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | GUITAR HERO 3 LEGENDS OF ROCK -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/guitar3rl.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Guitar Hero 3 Legends of Rock</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/u147x25ce2c5w00/2PATCH-BLES00134_00-BLES001340000000.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+		</Items>
+	</View>
+</XMBML>
