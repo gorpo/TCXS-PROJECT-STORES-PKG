@@ -1,0 +1,165 @@
+<XMBML version="1.0">
+    <View id="han_toolbox_xmb_main">
+        <Attributes>
+            <Table key="tcxs_project_pkg">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/logo.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT STORE</String></Pair>
+                <Pair key="info"><String>HFW | HFW | OWF</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="tcxs_project_pkg" attr="tcxs_project_pkg" src="#menus_downloads"/>
+        </Items>
+    </View>
+    <!-- MENUS DE DOWNLOADS DE PRIMEIRO E SEGUNDO PLANO -->
+    <View id="menus_downloads">
+    	<Attributes>
+    	<Table key="tcxs_project_web">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/www.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT WEB</String></Pair>
+                <Pair key="info"><String>HAN | HEN | CFW</String></Pair>
+            	<Pair key="module_name"><String>webrender_plugin</String></Pair>
+            	<Pair key="module_action"><String>http://tcxsproject.com.br/store/index.php</String></Pair>
+         </Table>	
+    	<Table key="primeiro_plano">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/primeiro_plano.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>DOWNLOADS PRIMEIRO PLANO</String></Pair>
+                <Pair key="info"><String>Baixa e instala automaticamente</String></Pair>
+        </Table>
+        <Table key="segundo_plano">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/segundo_plano.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>DOWNLOADS SEGUNDO PLANO</String></Pair>
+                <Pair key="info"><String>Baixa enquanto pode usar o console</String></Pair>
+        </Table>
+    </Attributes>
+    <Items>
+    	<Item class="type:x-xmb/module-action" key="tcxs_project_web" attr="tcxs_project_web" />
+    	<Query class="type:x-xmb/folder-pixmap" key="primeiro_plano" attr="primeiro_plano" src="#menus_primeiro_plano"/>
+    	<Query class="type:x-xmb/folder-pixmap" key="segundo_plano" attr="segundo_plano" src="#menus_segundo_plano"/>
+    </Items>
+	</View>    	
+
+
+	<!-- MENUS PRIMEIRO PLANO-->
+    <View id="menus_primeiro_plano">
+        <Attributes>
+            <Table key="jogos_psp1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/psp.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PSP</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps11">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps1.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS1</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps21">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps2.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS2</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps31">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps3.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS3</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="jogos_emuladores1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/emuladores.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation Emuladores</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="psn_stuff1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/stuff.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PSN Stuff</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            <Table key="temas1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/temas.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS Themes</String></Pair>
+                <Pair key="info"><String>Downloads em Primeiro Plano</String></Pair>
+            </Table>
+            
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_psp1" attr="jogos_psp1" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/psp.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps11" attr="jogos_ps11" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/ps1.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps21" attr="jogos_ps21" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/ps2.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps31" attr="jogos_ps31" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/ps3.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_emuladores1" attr="jogos_emuladores1" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/emuladores.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="psn_stuff1" attr="psn_stuff1" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/stuff.xml#psnstuff_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="temas1" attr="temas1" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_PRIMEIRO_PLANO/temas.xml#temas_items"/>
+            
+        </Items>
+    </View>   
+
+
+    <!-- MENUS SEGUNDO PLANO-->
+    <View id="menus_segundo_plano">
+        <Attributes>
+            <Table key="jogos_psp">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/psp.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PSP</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps1.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS1</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps2">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps2.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS2</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="jogos_ps3">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/ps3.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation PS3</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="jogos_emuladores">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/emuladores.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>PlayStation Emuladores</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="psn_stuff">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/stuff.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PSN Stuff</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            <Table key="temas">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/menu/temas.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS Themes</String></Pair>
+                <Pair key="info"><String>Downloads em Segundo Plano</String></Pair>
+            </Table>
+            
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_psp" attr="jogos_psp" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/psp.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps1" attr="jogos_ps1" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/ps1.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps2" attr="jogos_ps2" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/ps2.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_ps3" attr="jogos_ps3" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/ps3.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="jogos_emuladores" attr="jogos_emuladores" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/emuladores.xml#tcxs_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="psn_stuff" attr="psn_stuff" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/stuff.xml#psnstuff_items"/>
+            <Query class="type:x-xmb/folder-pixmap" key="temas" attr="temas" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS_SEGUNDO_PLANO/temas.xml#temas_items"/>
+            
+        </Items>
+    </View>   
+</XMBML>
