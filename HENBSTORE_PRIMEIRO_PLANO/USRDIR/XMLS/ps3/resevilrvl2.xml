@@ -1,0 +1,427 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:3 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:4 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_4">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:5 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_5">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:6 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_6">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:7 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_7">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:8 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_8">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:9 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_9">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:10 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_10">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:11 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_11">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:12 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_12">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:13 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_13">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:14 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_14">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:15 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_15">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:16 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_16">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:17 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_17">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:18 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_18">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:19 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_19">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+            <!-- id:20 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_20">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_0" attr="tcxs_0" src="#tcxs_0_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_1" attr="tcxs_1" src="#tcxs_1_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_2" attr="tcxs_2" src="#tcxs_2_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_3" attr="tcxs_3" src="#tcxs_3_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_4" attr="tcxs_4" src="#tcxs_4_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_5" attr="tcxs_5" src="#tcxs_5_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_6" attr="tcxs_6" src="#tcxs_6_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_7" attr="tcxs_7" src="#tcxs_7_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_8" attr="tcxs_8" src="#tcxs_8_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_9" attr="tcxs_9" src="#tcxs_9_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_10" attr="tcxs_10" src="#tcxs_10_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_11" attr="tcxs_11" src="#tcxs_11_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_12" attr="tcxs_12" src="#tcxs_12_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_13" attr="tcxs_13" src="#tcxs_13_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_14" attr="tcxs_14" src="#tcxs_14_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_15" attr="tcxs_15" src="#tcxs_15_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_16" attr="tcxs_16" src="#tcxs_16_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_17" attr="tcxs_17" src="#tcxs_17_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_18" attr="tcxs_18" src="#tcxs_18_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_19" attr="tcxs_19" src="#tcxs_19_link" />
+                <Query class="type:x-xmb/folder-pixmap" key="tcxs_20" attr="tcxs_20" src="#tcxs_20_link" />
+		</Items>
+	</View>
+        <View id="tcxs_0_link">
+            <Attributes>
+                <Table key="tcxs_download0">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/matuzka7pwymi3d/1DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/matuzka7pwymi3d/1DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>1DGAME-NPUB31444_00-NPUB314440000000</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download0" attr="tcxs_download0" /></Items>
+        </View>
+        <View id="tcxs_1_link">
+            <Attributes>
+                <Table key="tcxs_download1">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/9egjfce01vti8fj/2DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/9egjfce01vti8fj/2DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>2DGAME-NPUB31444_00-NPUB314440000000</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download1" attr="tcxs_download1" /></Items>
+        </View>
+        <View id="tcxs_2_link">
+            <Attributes>
+                <Table key="tcxs_download2">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/etjxl1m8x4pehhp/3DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/etjxl1m8x4pehhp/3DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>3DGAME-NPUB31444_00-NPUB314440000000</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download2" attr="tcxs_download2" /></Items>
+        </View>
+        <View id="tcxs_3_link">
+            <Attributes>
+                <Table key="tcxs_download3">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/w6xs04ojx6mat6j/2PATCH-BLUS31444_00-BLUS314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/w6xs04ojx6mat6j/2PATCH-BLUS31444_00-BLUS314440000000.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>2PATCH-BLUS31444_00-BLUS314440000000</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download3" attr="tcxs_download3" /></Items>
+        </View>
+        <View id="tcxs_4_link">
+            <Attributes>
+                <Table key="tcxs_download4">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/z4e414dh8vlecjf/Resident%20Evil%20Revelations%202%20-%20Episode%202.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/z4e414dh8vlecjf/Resident%20Evil%20Revelations%202%20-%20Episode%202.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20-%20Episode%202</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download4" attr="tcxs_download4" /></Items>
+        </View>
+        <View id="tcxs_5_link">
+            <Attributes>
+                <Table key="tcxs_download5">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/3hkvcitssr77x5x/Resident%20Evil%20Revelations%202%20-%20Raid%20Mode%20-%20Weapon%20Storage%20C.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/3hkvcitssr77x5x/Resident%20Evil%20Revelations%202%20-%20Raid%20Mode%20-%20Weapon%20Storage%20C.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20-%20Raid%20Mode%20-%20Weapon%20Storage%20C</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download5" attr="tcxs_download5" /></Items>
+        </View>
+        <View id="tcxs_6_link">
+            <Attributes>
+                <Table key="tcxs_download6">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/y0mokh69utyqbhf/Resident%20Evil%20Revelations%202%20dlc%20Barry%27s%20Commandant%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/y0mokh69utyqbhf/Resident%20Evil%20Revelations%202%20dlc%20Barry%27s%20Commandant%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Barry%27s%20Commandant%20Costume</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download6" attr="tcxs_download6" /></Items>
+        </View>
+        <View id="tcxs_7_link">
+            <Attributes>
+                <Table key="tcxs_download7">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/8bnm7egeaqh9utk/Resident%20Evil%20Revelations%202%20dlc%20Claire%27s%20Rodeo%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8bnm7egeaqh9utk/Resident%20Evil%20Revelations%202%20dlc%20Claire%27s%20Rodeo%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Claire%27s%20Rodeo%20Costume</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download7" attr="tcxs_download7" /></Items>
+        </View>
+        <View id="tcxs_8_link">
+            <Attributes>
+                <Table key="tcxs_download8">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/rfw8lmpy8fdbv1g/Resident%20Evil%20Revelations%202%20dlc%20Moira%27s%20Urban%20Ninja%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/rfw8lmpy8fdbv1g/Resident%20Evil%20Revelations%202%20dlc%20Moira%27s%20Urban%20Ninja%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Moira%27s%20Urban%20Ninja%20Costume</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download8" attr="tcxs_download8" /></Items>
+        </View>
+        <View id="tcxs_9_link">
+            <Attributes>
+                <Table key="tcxs_download9">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/b8paq8xf4mrz3x1/Resident%20Evil%20Revelations%202%20dlc%20Natalia%27s%20Lottie%20Suit%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/b8paq8xf4mrz3x1/Resident%20Evil%20Revelations%202%20dlc%20Natalia%27s%20Lottie%20Suit%20Costume.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Natalia%27s%20Lottie%20Suit%20Costume</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download9" attr="tcxs_download9" /></Items>
+        </View>
+        <View id="tcxs_10_link">
+            <Attributes>
+                <Table key="tcxs_download10">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/0un81tgctz5gqst/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Album%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/0un81tgctz5gqst/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Album%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Album%20Storage%20A</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download10" attr="tcxs_download10" /></Items>
+        </View>
+        <View id="tcxs_11_link">
+            <Attributes>
+                <Table key="tcxs_download11">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/w2wy8j3hzrv6keg/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Hunk.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/w2wy8j3hzrv6keg/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Hunk.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Hunk</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download11" attr="tcxs_download11" /></Items>
+        </View>
+        <View id="tcxs_12_link">
+            <Attributes>
+                <Table key="tcxs_download12">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/obejvst97qquwon/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Albert%20Wesker.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/obejvst97qquwon/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Albert%20Wesker.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Albert%20Wesker</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download12" attr="tcxs_download12" /></Items>
+        </View>
+        <View id="tcxs_13_link">
+            <Attributes>
+                <Table key="tcxs_download13">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/jbzd02xxcrc2lei/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Weapon%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/jbzd02xxcrc2lei/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Weapon%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Weapon%20Storage%20A</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download13" attr="tcxs_download13" /></Items>
+        </View>
+        <View id="tcxs_14_link">
+            <Attributes>
+                <Table key="tcxs_download14">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/cd603mekfv70xib/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Throwback%20Map%20Pack%20%28Mission%20IX%29.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/cd603mekfv70xib/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Throwback%20Map%20Pack%20%28Mission%20IX%29.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Throwback%20Map%20Pack%20%28Mission%20IX%29</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download14" attr="tcxs_download14" /></Items>
+        </View>
+        <View id="tcxs_15_link">
+            <Attributes>
+                <Table key="tcxs_download15">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/b9q4rsvgve5krsh/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Parts%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/b9q4rsvgve5krsh/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Parts%20Storage%20A.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Parts%20Storage%20A</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download15" attr="tcxs_download15" /></Items>
+        </View>
+        <View id="tcxs_16_link">
+            <Attributes>
+                <Table key="tcxs_download16">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/2lx0ouh6ene115y/Resident%20Evil%20Revelations%202%20Free%20Compatibility%20Pack.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/2lx0ouh6ene115y/Resident%20Evil%20Revelations%202%20Free%20Compatibility%20Pack.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20Free%20Compatibility%20Pack</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download16" attr="tcxs_download16" /></Items>
+        </View>
+        <View id="tcxs_17_link">
+            <Attributes>
+                <Table key="tcxs_download17">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/2uk1bgayw0kgjj4/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20The%20Struggle.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/2uk1bgayw0kgjj4/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20The%20Struggle.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20The%20Struggle</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download17" attr="tcxs_download17" /></Items>
+        </View>
+        <View id="tcxs_18_link">
+            <Attributes>
+                <Table key="tcxs_download18">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/524kk93y862rn36/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20Little%20Miss.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/524kk93y862rn36/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20Little%20Miss.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20Little%20Miss</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download18" attr="tcxs_download18" /></Items>
+        </View>
+        <View id="tcxs_19_link">
+            <Attributes>
+                <Table key="tcxs_download19">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/1yxdy6yz1t4y3rn/Resident%20Evil%20Revelations%202%20Episode%204%20-%20Metamorphosis.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/1yxdy6yz1t4y3rn/Resident%20Evil%20Revelations%202%20Episode%204%20-%20Metamorphosis.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20Episode%204%20-%20Metamorphosis</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download19" attr="tcxs_download19" /></Items>
+        </View>
+        <View id="tcxs_20_link">
+            <Attributes>
+                <Table key="tcxs_download20">
+                    <Pair key="info"><String>net_package_install</String></Pair>
+                    <Pair key="pkg_src"><String>https://www.dropbox.com/s/uhpyhdr50veoaqb/Resident%20Evil%20Revelations%202%20Episode%203%20-%20Judgment.pkg?dl=1</String></Pair>
+                    <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/uhpyhdr50veoaqb/Resident%20Evil%20Revelations%202%20Episode%203%20-%20Judgment.pkg?dl=1</String></Pair>
+                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                    <Pair key="content_id"><String>Resident%20Evil%20Revelations%202%20Episode%203%20-%20Judgment</String></Pair>
+                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                </Table>
+            </Attributes>
+            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download20" attr="tcxs_download20" /></Items>
+        </View></XMBML>
