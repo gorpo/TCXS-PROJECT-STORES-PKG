@@ -1,0 +1,44 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | THE AMAZING SPIDER -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/miranha.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: The Amazing Spider</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/svevd4j1v4xhb6f/1DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | THE AMAZING SPIDER -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/miranha.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: The Amazing Spider</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/3pjlpprtth1eu29/2DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | THE AMAZING SPIDER -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/miranha.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: The Amazing Spider</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/wavxf9ehqt59s5d/3DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:3 | PlayStation PS3 | TCXS PROJECT 2020 | THE AMAZING SPIDER -->
+            <Table key="tcxs_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/miranha.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: The Amazing Spider</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/wn3dqql79u185qt/2PATCH-BLES01547_00-BLES015470000000.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+                <Item class="type:x-xmb/module-action" key="tcxs_3" attr="tcxs_3" />
+		</Items>
+	</View>
+</XMBML>

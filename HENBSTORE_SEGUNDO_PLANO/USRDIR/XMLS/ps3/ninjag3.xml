@@ -1,0 +1,26 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | NINJA GAIDEN 3 -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/ninjag3.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Ninja Gaiden 3</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/4ev75oeg8i41x0j/1DGAME-NPEB01524_00-NPEB015240000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | NINJA GAIDEN 3 -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/ninjag3.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Ninja Gaiden 3</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/uxt7mxgl0nyx913/2PATCH-BLES01524_00-BLES015240000000.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+		</Items>
+	</View>
+</XMBML>

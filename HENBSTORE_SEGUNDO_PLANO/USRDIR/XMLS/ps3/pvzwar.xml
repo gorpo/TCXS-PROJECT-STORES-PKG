@@ -1,0 +1,35 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | PLANTS VS ZOMBIES GARDEN WARGARE -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/pvzwar.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Plants vs Zombies Garden Wargare</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/34eyhfok14366nx/1DGAME-NPUB31410_00-NPUB314100000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | PLANTS VS ZOMBIES GARDEN WARGARE -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/pvzwar.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Plants vs Zombies Garden Wargare</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/cod557uocot9fdo/2PATCH-BLUS31410_00-BLUS314100000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | PLANTS VS ZOMBIES GARDEN WARGARE -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/pvzwar.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Plants vs Zombies Garden Wargare</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/hvsw468vua7ukrs/BLUS31410_PLANTS_VS_ZOMBIES_GARDEN_WARFARE_DLCPACK_FIX.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+		</Items>
+	</View>
+</XMBML>

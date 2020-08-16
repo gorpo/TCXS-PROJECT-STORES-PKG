@@ -1,0 +1,35 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | DARK SOULS  -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/dark1.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Dark Souls </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/m54vgdf11yfg5l4/1DGAME-NPUB30782_00-NPUB307820000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | DARK SOULS  -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/dark1.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Dark Souls </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/68igcjq7hqorkve/2DGAME-NPUB30782_00-NPUB307820000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | DARK SOULS  -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/dark1.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Dark Souls </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/mhssir7nuausion/2PATCH-BLUS30782_00-BLUS307820000000-A0108-V0100.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+		</Items>
+	</View>
+</XMBML>
