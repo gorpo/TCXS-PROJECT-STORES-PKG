@@ -1,0 +1,26 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | JSTARS VICTORY VS -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/jstars.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: JSTARS Victory VS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/lbt7e27n4a38qzg/1DGAME-NPUB31519_00-NPUB315190000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | JSTARS VICTORY VS -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/jstars.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: JSTARS Victory VS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/dgezslg6e1xfpmp/2PATCH-BLUS31519_00-BLUS315190000000.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+		</Items>
+	</View>
+</XMBML>

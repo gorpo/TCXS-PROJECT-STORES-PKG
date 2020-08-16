@@ -1,0 +1,197 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/matuzka7pwymi3d/1DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/9egjfce01vti8fj/2DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/etjxl1m8x4pehhp/3DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:3 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/w6xs04ojx6mat6j/2PATCH-BLUS31444_00-BLUS314440000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:4 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_4">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/z4e414dh8vlecjf/Resident%20Evil%20Revelations%202%20-%20Episode%202.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:5 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_5">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/3hkvcitssr77x5x/Resident%20Evil%20Revelations%202%20-%20Raid%20Mode%20-%20Weapon%20Storage%20C.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:6 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_6">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/y0mokh69utyqbhf/Resident%20Evil%20Revelations%202%20dlc%20Barry%27s%20Commandant%20Costume.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:7 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_7">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/8bnm7egeaqh9utk/Resident%20Evil%20Revelations%202%20dlc%20Claire%27s%20Rodeo%20Costume.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:8 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_8">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/rfw8lmpy8fdbv1g/Resident%20Evil%20Revelations%202%20dlc%20Moira%27s%20Urban%20Ninja%20Costume.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:9 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_9">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/b8paq8xf4mrz3x1/Resident%20Evil%20Revelations%202%20dlc%20Natalia%27s%20Lottie%20Suit%20Costume.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:10 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_10">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/0un81tgctz5gqst/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Album%20Storage%20A.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:11 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_11">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/w2wy8j3hzrv6keg/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Hunk.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:12 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_12">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/obejvst97qquwon/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20Character%20-%20Albert%20Wesker.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:13 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_13">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/jbzd02xxcrc2lei/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Weapon%20Storage%20A.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:14 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_14">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/cd603mekfv70xib/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Throwback%20Map%20Pack%20%28Mission%20IX%29.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:15 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_15">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/b9q4rsvgve5krsh/Resident%20Evil%20Revelations%202%20dlc%20Raid%20Mode%20-%20Parts%20Storage%20A.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:16 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_16">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/2lx0ouh6ene115y/Resident%20Evil%20Revelations%202%20Free%20Compatibility%20Pack.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:17 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_17">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/2uk1bgayw0kgjj4/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20The%20Struggle.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:18 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_18">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/524kk93y862rn36/Resident%20Evil%20Revelations%202%20Extra%20Episode%20-%20Little%20Miss.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:19 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_19">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/1yxdy6yz1t4y3rn/Resident%20Evil%20Revelations%202%20Episode%204%20-%20Metamorphosis.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:20 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS 2 -->
+            <Table key="tcxs_20">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/resevilrvl2.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations 2</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/uhpyhdr50veoaqb/Resident%20Evil%20Revelations%202%20Episode%203%20-%20Judgment.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+                <Item class="type:x-xmb/module-action" key="tcxs_3" attr="tcxs_3" />
+                <Item class="type:x-xmb/module-action" key="tcxs_4" attr="tcxs_4" />
+                <Item class="type:x-xmb/module-action" key="tcxs_5" attr="tcxs_5" />
+                <Item class="type:x-xmb/module-action" key="tcxs_6" attr="tcxs_6" />
+                <Item class="type:x-xmb/module-action" key="tcxs_7" attr="tcxs_7" />
+                <Item class="type:x-xmb/module-action" key="tcxs_8" attr="tcxs_8" />
+                <Item class="type:x-xmb/module-action" key="tcxs_9" attr="tcxs_9" />
+                <Item class="type:x-xmb/module-action" key="tcxs_10" attr="tcxs_10" />
+                <Item class="type:x-xmb/module-action" key="tcxs_11" attr="tcxs_11" />
+                <Item class="type:x-xmb/module-action" key="tcxs_12" attr="tcxs_12" />
+                <Item class="type:x-xmb/module-action" key="tcxs_13" attr="tcxs_13" />
+                <Item class="type:x-xmb/module-action" key="tcxs_14" attr="tcxs_14" />
+                <Item class="type:x-xmb/module-action" key="tcxs_15" attr="tcxs_15" />
+                <Item class="type:x-xmb/module-action" key="tcxs_16" attr="tcxs_16" />
+                <Item class="type:x-xmb/module-action" key="tcxs_17" attr="tcxs_17" />
+                <Item class="type:x-xmb/module-action" key="tcxs_18" attr="tcxs_18" />
+                <Item class="type:x-xmb/module-action" key="tcxs_19" attr="tcxs_19" />
+                <Item class="type:x-xmb/module-action" key="tcxs_20" attr="tcxs_20" />
+		</Items>
+	</View>
+</XMBML>

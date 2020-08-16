@@ -1,0 +1,3091 @@
+﻿<XMBML version="1.0">
+    <View id="psn_hm_items">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_item_266">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hamiltons Great Adventure.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hamiltons Great Adventure</String></Pair>
+                <Pair key="info"><String>NPEB00169 - 419.15 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_267">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hamster Ball.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hamster Ball</String></Pair>
+                <Pair key="info"><String>NPEB00179 - 262.14 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_268">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - Hatsune Miku: Project DIVA F</String></Pair>
+                <Pair key="info"><String>NPEB01393 - 5786.57 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_269">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Helldivers.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Helldivers</String></Pair>
+                <Pair key="info"><String>NPEA00505 - 1963.63 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_270">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/High Stakes - Vegas Strip Poker Edition.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - High Stakes - Vegas Strip Poker Edition</String></Pair>
+                <Pair key="info"><String>NPEB00009 - 334.05 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_271">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/High Velocity Bowling.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - High Velocity Bowling</String></Pair>
+                <Pair key="info"><String>NPEA00047 - 513.83 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_272">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman - Absolution.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman - Absolution</String></Pair>
+                <Pair key="info"><String>NPEB00914 - 16509.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_273">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman 2 Silent Assassins HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman 2 Silent Assassins HD</String></Pair>
+                <Pair key="info"><String>NPEB00840 - 1453.93 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_274">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman Absolution.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman Absolution</String></Pair>
+                <Pair key="info"><String>NPEB00992 - 16738.57 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_275">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman Absolution.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman Absolution</String></Pair>
+                <Pair key="info"><String>NPEB00993 - 16733.75 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_276">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman Blood Money HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman Blood Money HD</String></Pair>
+                <Pair key="info"><String>NPEB00839 - 5106.93 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_277">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman Contracts HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman Contracts HD</String></Pair>
+                <Pair key="info"><String>NPEB00841 - 3567.44 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_278">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hitman Sniper Challange.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hitman Sniper Challange</String></Pair>
+                <Pair key="info"><String>NPEB00867 - 844.76 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_279">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hohokum.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hohokum</String></Pair>
+                <Pair key="info"><String>NPEA00474 - 2548.07 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_280">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hotline Miami.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hotline Miami</String></Pair>
+                <Pair key="info"><String>NPEB01341 - 564.70 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_281">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hotline Miami 2 - Wrong Number.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hotline Miami 2: Wrong Number</String></Pair>
+                <Pair key="info"><String>NPEB02007 - 390.54 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_282">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/House of the Dead 3.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - House of the Dead 3</String></Pair>
+                <Pair key="info"><String>NPEB00849 - 1169.53 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_283">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - House of the Dead 4</String></Pair>
+                <Pair key="info"><String>NPEB00857 - 4064.52 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_284">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/House of the Dead Overkill Extended Cut.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - House of the Dead Overkill Extended Cut</String></Pair>
+                <Pair key="info"><String>NPEB00781 - 7706.06 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_285">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hustle Kings.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hustle Kings</String></Pair>
+                <Pair key="info"><String>NPEA00145 - 314.23 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_286">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Hydrophobia Prophecy.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Hydrophobia Prophecy</String></Pair>
+                <Pair key="info"><String>NPEB00377 - 1815.05 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_287">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Ico HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Ico HD</String></Pair>
+                <Pair key="info"><String>NPEA00279 - 1728.55 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_288">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/inFAMOUS.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - inFAMOUS</String></Pair>
+                <Pair key="info"><String>NPEA00252 - 7055.65 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_289">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/inFamous.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - inFamous</String></Pair>
+                <Pair key="info"><String>NPEA00257 - 7055.65 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_290">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/inFamous - Festival of Blood.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - inFamous - Festival of Blood</String></Pair>
+                <Pair key="info"><String>NPEA00322 - 3751.79 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_291">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/inFAMOUS 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - inFAMOUS 2</String></Pair>
+                <Pair key="info"><String>NPEA00318 - 14379.80 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_292">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/International Snooker.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - International Snooker</String></Pair>
+                <Pair key="info"><String>NPEB00999 - 1042.66 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_293">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Invokers Tournament.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Invokers Tournament</String></Pair>
+                <Pair key="info"><String>NPEB02029 - 408.87 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_294">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Ion Assault HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Ion Assault HD</String></Pair>
+                <Pair key="info"><String>NPEB00769 - 385.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_295">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Jak and Daxter 2 - Renegade.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Jak and Daxter 2 - Renegade</String></Pair>
+                <Pair key="info"><String>NPEA00339 - 3429.24 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_296">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Jak and Daxter 3.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Jak and Daxter 3</String></Pair>
+                <Pair key="info"><String>NPEA00340 - 3069.70 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_297">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Jak and Daxter The Precursor Legacy.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Jak and Daxter The Precursor Legacy</String></Pair>
+                <Pair key="info"><String>NPEA00338 - 991.73 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_298">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Jetpack Joyride.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Jetpack Joyride</String></Pair>
+                <Pair key="info"><String>NPEB01240 - 33.72 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_299">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Joe Danger.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Joe Danger</String></Pair>
+                <Pair key="info"><String>NPEB00205 - 260.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_300">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/JoJos Bizarre Adventure - All-Star Battle.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - JoJos Bizarre Adventure: All-Star Battle</String></Pair>
+                <Pair key="info"><String>NPEB01922 - 2695.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_301">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Journey PSN.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Journey PSN</String></Pair>
+                <Pair key="info"><String>NPEA00288 - 590.44 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_302">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Judge Dee - The City God Case.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Judge Dee - The City God Case</String></Pair>
+                <Pair key="info"><String>NPEB00866 - 320.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_303">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Juju.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Juju</String></Pair>
+                <Pair key="info"><String>NPEB02130 - 2406.08 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_304">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Just Cause 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Just Cause 2</String></Pair>
+                <Pair key="info"><String>NPEB00751 - 7488.60 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_305">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Killzone HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Killzone HD</String></Pair>
+                <Pair key="info"><String>NPEA00418 - 3292.94 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_306">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Kings Quest Chapter 1.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - King's Quest - Chapter 1</String></Pair>
+                <Pair key="info"><String>NPEB02301 - 3000.43 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_307">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Kingdoms of Amalur Reckoning.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Kingdoms of Amalur Reckoning</String></Pair>
+                <Pair key="info"><String>NPEB01055 - 13743.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_308">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Kite Fight.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Kite Fight</String></Pair>
+                <Pair key="info"><String>NPEA00368 - 621.02 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_309">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Knytt Underground.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Knytt Underground</String></Pair>
+                <Pair key="info"><String>NPEB01041 - 857.31 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_310">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Knytt Underground.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Knytt Underground</String></Pair>
+                <Pair key="info"><String>NPEB01313 - 313.06 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_311">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Kung Fu Rabbit.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Kung Fu Rabbit</String></Pair>
+                <Pair key="info"><String>NPEB01855 - 86.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_312">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LA Noire.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LA Noire</String></Pair>
+                <Pair key="info"><String>NPEB00850 - 12311.45 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_313">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Landit Bandit.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Landit Bandit</String></Pair>
+                <Pair key="info"><String>NPEB00220 - 110.37 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_314">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Lara Croft and the Guardian of Light.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Lara Croft and the Guardian of Light</String></Pair>
+                <Pair key="info"><String>NPEB00311 - 2342.53 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_315">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Lead and Gold - Gangs of the Wild West.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Lead and Gold - Gangs of the Wild West</String></Pair>
+                <Pair key="info"><String>NPEB00201 - 731.05 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_316">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Legend Of Korra.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Legend Of Korra</String></Pair>
+                <Pair key="info"><String>NPEB02082 - 2643.90 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_317">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LEGO Batman 2 - DC Super Heroes.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LEGO Batman 2: DC Super Heroes</String></Pair>
+                <Pair key="info"><String>NPEB01032 - 5094.66 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_318">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LEGO Harry Potter Years 5 7.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LEGO Harry Potter: Years 5-7</String></Pair>
+                <Pair key="info"><String>NPEB01179 - 9368.37 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_319">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LEGO Pirates of the Caribbean.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LEGO Pirates of the Caribbean</String></Pair>
+                <Pair key="info"><String>NPEB00654 - 7442.60 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_320">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LEGO Pirates of the Caribbean.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LEGO Pirates of the Caribbean</String></Pair>
+                <Pair key="info"><String>NPEB00655 - 7439.68 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_321">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Lightning Returns - Final Fantasy XIII.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Lightning Returns - Final Fantasy XIII</String></Pair>
+                <Pair key="info"><String>NPEB01321 - 9831.41 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_322">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Linger In Shadows.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Linger In Shadows</String></Pair>
+                <Pair key="info"><String>NPEA00066 - 100.40 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_323">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Little Big Planet.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Little Big Planet</String></Pair>
+                <Pair key="info"><String>NPEA00241 - 2038.54 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_324">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Little Big Planet 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Little Big Planet 2</String></Pair>
+                <Pair key="info"><String>NPEA00324 - 5864.84 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_325">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Little Big Planet Karting.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Little Big Planet Karting</String></Pair>
+                <Pair key="info"><String>NPEA00421 - 13425.50 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_326">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LittleBigPlanet Sackboys Prehistoric Moves.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LittleBigPlanet Beta</String></Pair>
+                <Pair key="info"><String>BCET70002 - 905.34 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_327">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/LocoRoco Cocoreccho..jpg</String></Pair>
+                <Pair key="title"><String> TCXS - LocoRoco Cocoreccho.</String></Pair>
+                <Pair key="info"><String>NPEA00036 - 255.51 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_328">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Lord of the Rings - War in the North.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Lord of the Rings - War in the North</String></Pair>
+                <Pair key="info"><String>NPEB01267 - 6482.54 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_329">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Luftrausers.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Luftrausers</String></Pair>
+                <Pair key="info"><String>NPEB01353 - 257.10 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_330">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Lumines Supernova.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Lumines Supernova</String></Pair>
+                <Pair key="info"><String>NPEB00066 - 668.06 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_331">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Machinarium.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Machinarium</String></Pair>
+                <Pair key="info"><String>NPEB00257 - 183.52 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_332">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Madden NFL 15.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Madden NFL 15</String></Pair>
+                <Pair key="info"><String>NPEB02018 - 8471.52 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_333">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mafia 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mafia 2</String></Pair>
+                <Pair key="info"><String>NPEB00829 - 7354.17 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_334">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - MAG Beta</String></Pair>
+                <Pair key="info"><String>BCET70016 - 36.49 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_335">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Magic Orbz.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Magic Orbz</String></Pair>
+                <Pair key="info"><String>NPEB00068 - 320.65 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_336">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - MAGICIAN LORD</String></Pair>
+                <Pair key="info"><String>NPEB00242 - 56.36 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_337">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mahjong Tales Ancient Wisdom.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mahjong Tales Ancient Wisdom</String></Pair>
+                <Pair key="info"><String>NPEB00067 - 261.11 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_338">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Malicious.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Malicious</String></Pair>
+                <Pair key="info"><String>NPEA00366 - 523.88 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_339">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Marvel Pinball.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MARVEL PINBALL</String></Pair>
+                <Pair key="info"><String>NPEB00379 - 269.00 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_340">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mass Effect.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mass Effect</String></Pair>
+                <Pair key="info"><String>NPEB01195 - 10710.92 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_341">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mass Effect 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mass Effect 2</String></Pair>
+                <Pair key="info"><String>NPEB00503 - 12186.47 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_342">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mass Effect 3.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mass Effect 3</String></Pair>
+                <Pair key="info"><String>NPEB00865 - 14146.82 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_343">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Max and the magic Marker - Gold Edition.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Max and the magic Marker - Gold Edition</String></Pair>
+                <Pair key="info"><String>NPEB00596 - 240.57 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_344">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/May Payne 3.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - May Payne 3</String></Pair>
+                <Pair key="info"><String>NPEB01037 - 13901.10 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_345">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Medal of Honor Warfighter.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Medal of Honor Warfighter</String></Pair>
+                <Pair key="info"><String>NPEB01193 - 12756.67 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_346">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Medieval Moves.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Medieval Moves</String></Pair>
+                <Pair key="info"><String>NPEA00334 - 8247.19 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_347">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mega Man 10.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MEGA MAN 10</String></Pair>
+                <Pair key="info"><String>NPEB00141 - 144.36 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_348">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mega Man 9.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MEGA MAN 9</String></Pair>
+                <Pair key="info"><String>NPEB00037 - 64.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_349">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mesmerize.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mesmerize</String></Pair>
+                <Pair key="info"><String>NPEA00030 - 133.03 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_350">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mesmerize - Trace.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mesmerize - Trace</String></Pair>
+                <Pair key="info"><String>NPEA00030 - 119.71 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_351">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear ONLINE PREMIERE Beta</String></Pair>
+                <Pair key="info"><String>BLET70000 - 740.53 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_352">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Rising Revengeance.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Rising Revengeance</String></Pair>
+                <Pair key="info"><String>NPEB01228 - 18931.58 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_353">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Solid - Ground Zeroes.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid - Ground Zeroes</String></Pair>
+                <Pair key="info"><String>NPEB01889 - 1859.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_354">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Solid - Peace Walker HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid - Peace Walker HD</String></Pair>
+                <Pair key="info"><String>NPEB00686 - 3794.60 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_355">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Solid 2 - Sons of Liberty HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid 2 - Sons of Liberty HD</String></Pair>
+                <Pair key="info"><String>NPEB00685 - 8605.11 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_356">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Solid 3 - Snake Eater HD.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid 3 - Snake Eater HD</String></Pair>
+                <Pair key="info"><String>NPEB00684 - 9656.90 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_357">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid 4: Guns of the Patriots - Part 00</String></Pair>
+                <Pair key="info"><String>NPEB02182 - 4470.35 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_358">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Gear Solid 5 - The Phantom Pain.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Solid 5 - The Phantom Pain</String></Pair>
+                <Pair key="info"><String>NPEB02140 - 12043.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_359">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Slug 2.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Slug 2</String></Pair>
+                <Pair key="info"><String>NPEB00681 - 87.47 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_360">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metal Slug 3.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Slug 3</String></Pair>
+                <Pair key="info"><String>NPEB02252 - 120.10 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_361">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Metro Last Light.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metro Last Light</String></Pair>
+                <Pair key="info"><String>NPEB01369 - 4976.93 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_362">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mirror's Edge.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mirror's Edge</String></Pair>
+                <Pair key="info"><String>NPEB00052 - 5060.05 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_363">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Modnation Racers.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Modnation Racers</String></Pair>
+                <Pair key="info"><String>NPEA00291 - 18539.93 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_364">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mortal Kombat.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mortal Kombat</String></Pair>
+                <Pair key="info"><String>NPEB00847 - 9187.94 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_365">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mortal Kombat II.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mortal Kombat 2</String></Pair>
+                <Pair key="info"><String>NPEB00002 - 249.71 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_366">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/MotoGP 13 Compact.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MotoGP 13 Compact</String></Pair>
+                <Pair key="info"><String>NPEB01938 - 4170.94 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_367">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/MotoGP 14 Compact.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MotoGP 14 Compact</String></Pair>
+                <Pair key="info"><String>NPEB02194 - 2864.10 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_368">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Motorstorm Apokalypse.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Motorstorm Apokalypse</String></Pair>
+                <Pair key="info"><String>NPEA00315 - 6790.41 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_369">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/MouseCraft.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MouseCraft</String></Pair>
+                <Pair key="info"><String>NPEB02041 - 263.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_370">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Move Street Cricket II.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Move Street Cricket II</String></Pair>
+                <Pair key="info"><String>NPEA00397 - 526.17 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_371">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Ms Germinator.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Ms Germinator</String></Pair>
+                <Pair key="info"><String>NPEB01437 - 189.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_372">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mubi.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mubi</String></Pair>
+                <Pair key="info"><String>NPEA00258 - 19.96 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_373">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/MUD FIM Motocross World Championship.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - MUD FIM Motocross World Championship</String></Pair>
+                <Pair key="info"><String>NPEB00925 - 1694.88 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_374">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Murdered - Soul Suspect.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Murdered: Soul Suspect</String></Pair>
+                <Pair key="info"><String>NPEB01432 - 10177.23 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_375">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/Mushroom Wars.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mushroom Wars</String></Pair>
+                <Pair key="info"><String>NPEB00120 - 100.73 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_266"
+                attr="psnstuff_PSN_EU_item_266"
+                src="#psnstuff_PSN_EU_item_266_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_267"
+                attr="psnstuff_PSN_EU_item_267"
+                src="#psnstuff_PSN_EU_item_267_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_268"
+                attr="psnstuff_PSN_EU_item_268"
+                src="#psnstuff_PSN_EU_item_268_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_269"
+                attr="psnstuff_PSN_EU_item_269"
+                src="#psnstuff_PSN_EU_item_269_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_270"
+                attr="psnstuff_PSN_EU_item_270"
+                src="#psnstuff_PSN_EU_item_270_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_271"
+                attr="psnstuff_PSN_EU_item_271"
+                src="#psnstuff_PSN_EU_item_271_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_272"
+                attr="psnstuff_PSN_EU_item_272"
+                src="#psnstuff_PSN_EU_item_272_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_273"
+                attr="psnstuff_PSN_EU_item_273"
+                src="#psnstuff_PSN_EU_item_273_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_274"
+                attr="psnstuff_PSN_EU_item_274"
+                src="#psnstuff_PSN_EU_item_274_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_275"
+                attr="psnstuff_PSN_EU_item_275"
+                src="#psnstuff_PSN_EU_item_275_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_276"
+                attr="psnstuff_PSN_EU_item_276"
+                src="#psnstuff_PSN_EU_item_276_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_277"
+                attr="psnstuff_PSN_EU_item_277"
+                src="#psnstuff_PSN_EU_item_277_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_278"
+                attr="psnstuff_PSN_EU_item_278"
+                src="#psnstuff_PSN_EU_item_278_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_279"
+                attr="psnstuff_PSN_EU_item_279"
+                src="#psnstuff_PSN_EU_item_279_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_280"
+                attr="psnstuff_PSN_EU_item_280"
+                src="#psnstuff_PSN_EU_item_280_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_281"
+                attr="psnstuff_PSN_EU_item_281"
+                src="#psnstuff_PSN_EU_item_281_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_282"
+                attr="psnstuff_PSN_EU_item_282"
+                src="#psnstuff_PSN_EU_item_282_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_283"
+                attr="psnstuff_PSN_EU_item_283"
+                src="#psnstuff_PSN_EU_item_283_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_284"
+                attr="psnstuff_PSN_EU_item_284"
+                src="#psnstuff_PSN_EU_item_284_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_285"
+                attr="psnstuff_PSN_EU_item_285"
+                src="#psnstuff_PSN_EU_item_285_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_286"
+                attr="psnstuff_PSN_EU_item_286"
+                src="#psnstuff_PSN_EU_item_286_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_287"
+                attr="psnstuff_PSN_EU_item_287"
+                src="#psnstuff_PSN_EU_item_287_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_288"
+                attr="psnstuff_PSN_EU_item_288"
+                src="#psnstuff_PSN_EU_item_288_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_289"
+                attr="psnstuff_PSN_EU_item_289"
+                src="#psnstuff_PSN_EU_item_289_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_290"
+                attr="psnstuff_PSN_EU_item_290"
+                src="#psnstuff_PSN_EU_item_290_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_291"
+                attr="psnstuff_PSN_EU_item_291"
+                src="#psnstuff_PSN_EU_item_291_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_292"
+                attr="psnstuff_PSN_EU_item_292"
+                src="#psnstuff_PSN_EU_item_292_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_293"
+                attr="psnstuff_PSN_EU_item_293"
+                src="#psnstuff_PSN_EU_item_293_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_294"
+                attr="psnstuff_PSN_EU_item_294"
+                src="#psnstuff_PSN_EU_item_294_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_295"
+                attr="psnstuff_PSN_EU_item_295"
+                src="#psnstuff_PSN_EU_item_295_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_296"
+                attr="psnstuff_PSN_EU_item_296"
+                src="#psnstuff_PSN_EU_item_296_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_297"
+                attr="psnstuff_PSN_EU_item_297"
+                src="#psnstuff_PSN_EU_item_297_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_298"
+                attr="psnstuff_PSN_EU_item_298"
+                src="#psnstuff_PSN_EU_item_298_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_299"
+                attr="psnstuff_PSN_EU_item_299"
+                src="#psnstuff_PSN_EU_item_299_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_300"
+                attr="psnstuff_PSN_EU_item_300"
+                src="#psnstuff_PSN_EU_item_300_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_301"
+                attr="psnstuff_PSN_EU_item_301"
+                src="#psnstuff_PSN_EU_item_301_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_302"
+                attr="psnstuff_PSN_EU_item_302"
+                src="#psnstuff_PSN_EU_item_302_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_303"
+                attr="psnstuff_PSN_EU_item_303"
+                src="#psnstuff_PSN_EU_item_303_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_304"
+                attr="psnstuff_PSN_EU_item_304"
+                src="#psnstuff_PSN_EU_item_304_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_305"
+                attr="psnstuff_PSN_EU_item_305"
+                src="#psnstuff_PSN_EU_item_305_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_306"
+                attr="psnstuff_PSN_EU_item_306"
+                src="#psnstuff_PSN_EU_item_306_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_307"
+                attr="psnstuff_PSN_EU_item_307"
+                src="#psnstuff_PSN_EU_item_307_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_308"
+                attr="psnstuff_PSN_EU_item_308"
+                src="#psnstuff_PSN_EU_item_308_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_309"
+                attr="psnstuff_PSN_EU_item_309"
+                src="#psnstuff_PSN_EU_item_309_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_310"
+                attr="psnstuff_PSN_EU_item_310"
+                src="#psnstuff_PSN_EU_item_310_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_311"
+                attr="psnstuff_PSN_EU_item_311"
+                src="#psnstuff_PSN_EU_item_311_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_312"
+                attr="psnstuff_PSN_EU_item_312"
+                src="#psnstuff_PSN_EU_item_312_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_313"
+                attr="psnstuff_PSN_EU_item_313"
+                src="#psnstuff_PSN_EU_item_313_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_314"
+                attr="psnstuff_PSN_EU_item_314"
+                src="#psnstuff_PSN_EU_item_314_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_315"
+                attr="psnstuff_PSN_EU_item_315"
+                src="#psnstuff_PSN_EU_item_315_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_316"
+                attr="psnstuff_PSN_EU_item_316"
+                src="#psnstuff_PSN_EU_item_316_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_317"
+                attr="psnstuff_PSN_EU_item_317"
+                src="#psnstuff_PSN_EU_item_317_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_318"
+                attr="psnstuff_PSN_EU_item_318"
+                src="#psnstuff_PSN_EU_item_318_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_319"
+                attr="psnstuff_PSN_EU_item_319"
+                src="#psnstuff_PSN_EU_item_319_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_320"
+                attr="psnstuff_PSN_EU_item_320"
+                src="#psnstuff_PSN_EU_item_320_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_321"
+                attr="psnstuff_PSN_EU_item_321"
+                src="#psnstuff_PSN_EU_item_321_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_322"
+                attr="psnstuff_PSN_EU_item_322"
+                src="#psnstuff_PSN_EU_item_322_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_323"
+                attr="psnstuff_PSN_EU_item_323"
+                src="#psnstuff_PSN_EU_item_323_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_324"
+                attr="psnstuff_PSN_EU_item_324"
+                src="#psnstuff_PSN_EU_item_324_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_325"
+                attr="psnstuff_PSN_EU_item_325"
+                src="#psnstuff_PSN_EU_item_325_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_326"
+                attr="psnstuff_PSN_EU_item_326"
+                src="#psnstuff_PSN_EU_item_326_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_327"
+                attr="psnstuff_PSN_EU_item_327"
+                src="#psnstuff_PSN_EU_item_327_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_328"
+                attr="psnstuff_PSN_EU_item_328"
+                src="#psnstuff_PSN_EU_item_328_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_329"
+                attr="psnstuff_PSN_EU_item_329"
+                src="#psnstuff_PSN_EU_item_329_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_330"
+                attr="psnstuff_PSN_EU_item_330"
+                src="#psnstuff_PSN_EU_item_330_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_331"
+                attr="psnstuff_PSN_EU_item_331"
+                src="#psnstuff_PSN_EU_item_331_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_332"
+                attr="psnstuff_PSN_EU_item_332"
+                src="#psnstuff_PSN_EU_item_332_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_333"
+                attr="psnstuff_PSN_EU_item_333"
+                src="#psnstuff_PSN_EU_item_333_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_334"
+                attr="psnstuff_PSN_EU_item_334"
+                src="#psnstuff_PSN_EU_item_334_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_335"
+                attr="psnstuff_PSN_EU_item_335"
+                src="#psnstuff_PSN_EU_item_335_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_336"
+                attr="psnstuff_PSN_EU_item_336"
+                src="#psnstuff_PSN_EU_item_336_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_337"
+                attr="psnstuff_PSN_EU_item_337"
+                src="#psnstuff_PSN_EU_item_337_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_338"
+                attr="psnstuff_PSN_EU_item_338"
+                src="#psnstuff_PSN_EU_item_338_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_339"
+                attr="psnstuff_PSN_EU_item_339"
+                src="#psnstuff_PSN_EU_item_339_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_340"
+                attr="psnstuff_PSN_EU_item_340"
+                src="#psnstuff_PSN_EU_item_340_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_341"
+                attr="psnstuff_PSN_EU_item_341"
+                src="#psnstuff_PSN_EU_item_341_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_342"
+                attr="psnstuff_PSN_EU_item_342"
+                src="#psnstuff_PSN_EU_item_342_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_343"
+                attr="psnstuff_PSN_EU_item_343"
+                src="#psnstuff_PSN_EU_item_343_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_344"
+                attr="psnstuff_PSN_EU_item_344"
+                src="#psnstuff_PSN_EU_item_344_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_345"
+                attr="psnstuff_PSN_EU_item_345"
+                src="#psnstuff_PSN_EU_item_345_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_346"
+                attr="psnstuff_PSN_EU_item_346"
+                src="#psnstuff_PSN_EU_item_346_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_347"
+                attr="psnstuff_PSN_EU_item_347"
+                src="#psnstuff_PSN_EU_item_347_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_348"
+                attr="psnstuff_PSN_EU_item_348"
+                src="#psnstuff_PSN_EU_item_348_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_349"
+                attr="psnstuff_PSN_EU_item_349"
+                src="#psnstuff_PSN_EU_item_349_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_350"
+                attr="psnstuff_PSN_EU_item_350"
+                src="#psnstuff_PSN_EU_item_350_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_351"
+                attr="psnstuff_PSN_EU_item_351"
+                src="#psnstuff_PSN_EU_item_351_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_352"
+                attr="psnstuff_PSN_EU_item_352"
+                src="#psnstuff_PSN_EU_item_352_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_353"
+                attr="psnstuff_PSN_EU_item_353"
+                src="#psnstuff_PSN_EU_item_353_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_354"
+                attr="psnstuff_PSN_EU_item_354"
+                src="#psnstuff_PSN_EU_item_354_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_355"
+                attr="psnstuff_PSN_EU_item_355"
+                src="#psnstuff_PSN_EU_item_355_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_356"
+                attr="psnstuff_PSN_EU_item_356"
+                src="#psnstuff_PSN_EU_item_356_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_357"
+                attr="psnstuff_PSN_EU_item_357"
+                src="#psnstuff_PSN_EU_item_357_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_358"
+                attr="psnstuff_PSN_EU_item_358"
+                src="#psnstuff_PSN_EU_item_358_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_359"
+                attr="psnstuff_PSN_EU_item_359"
+                src="#psnstuff_PSN_EU_item_359_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_360"
+                attr="psnstuff_PSN_EU_item_360"
+                src="#psnstuff_PSN_EU_item_360_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_361"
+                attr="psnstuff_PSN_EU_item_361"
+                src="#psnstuff_PSN_EU_item_361_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_362"
+                attr="psnstuff_PSN_EU_item_362"
+                src="#psnstuff_PSN_EU_item_362_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_363"
+                attr="psnstuff_PSN_EU_item_363"
+                src="#psnstuff_PSN_EU_item_363_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_364"
+                attr="psnstuff_PSN_EU_item_364"
+                src="#psnstuff_PSN_EU_item_364_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_365"
+                attr="psnstuff_PSN_EU_item_365"
+                src="#psnstuff_PSN_EU_item_365_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_366"
+                attr="psnstuff_PSN_EU_item_366"
+                src="#psnstuff_PSN_EU_item_366_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_367"
+                attr="psnstuff_PSN_EU_item_367"
+                src="#psnstuff_PSN_EU_item_367_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_368"
+                attr="psnstuff_PSN_EU_item_368"
+                src="#psnstuff_PSN_EU_item_368_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_369"
+                attr="psnstuff_PSN_EU_item_369"
+                src="#psnstuff_PSN_EU_item_369_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_370"
+                attr="psnstuff_PSN_EU_item_370"
+                src="#psnstuff_PSN_EU_item_370_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_371"
+                attr="psnstuff_PSN_EU_item_371"
+                src="#psnstuff_PSN_EU_item_371_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_372"
+                attr="psnstuff_PSN_EU_item_372"
+                src="#psnstuff_PSN_EU_item_372_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_373"
+                attr="psnstuff_PSN_EU_item_373"
+                src="#psnstuff_PSN_EU_item_373_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_374"
+                attr="psnstuff_PSN_EU_item_374"
+                src="#psnstuff_PSN_EU_item_374_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_375"
+                attr="psnstuff_PSN_EU_item_375"
+                src="#psnstuff_PSN_EU_item_375_link"
+            />
+        </Items>
+    </View>
+
+
+    <View id="psnstuff_PSN_EU_item_266_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_266">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4122/NPEB00169_00/grzNqmKXKpLjRFHIoqvQfbwItqunWPdwYXAGMbFnZHglHzordvHSrzEUEOXhVdAo.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4122/NPEB00169_00/grzNqmKXKpLjRFHIoqvQfbwItqunWPdwYXAGMbFnZHglHzordvHSrzEUEOXhVdAo.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4122-NPEB00169_00-HAMILTON00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_266" attr="psnstuff_PSN_EU_link_266"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_267_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_267">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2016/NPEB00179_00/SIwhiysPUENbvOUKP17MUBWJQtj8M16Jm0Kc5ueuvd5O7pCsSR6tpjqL8whON0DUarv2nlnkBLLObssNAHwDxINKPvMnsHHOjv3Wj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2016/NPEB00179_00/SIwhiysPUENbvOUKP17MUBWJQtj8M16Jm0Kc5ueuvd5O7pCsSR6tpjqL8whON0DUarv2nlnkBLLObssNAHwDxINKPvMnsHHOjv3Wj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2016-NPEB00179_00-HAMSTERBALL00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_267" attr="psnstuff_PSN_EU_link_267"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_268_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_268">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01393_00/JRxoXRwvdoMewlZNGIfULznmkUxEhUEJhvYwbbYnEBXSUFdhFDeLGevUUzBIQolP.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01393_00/JRxoXRwvdoMewlZNGIfULznmkUxEhUEJhvYwbbYnEBXSUFdhFDeLGevUUzBIQolP.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB01393_00-PJDF393MAJITENSI</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_268" attr="psnstuff_PSN_EU_link_268"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_269_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_269">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00505_00/EP9000-NPEA00505_00-HELLDIVERSSCEE00_bg_1_42671b2cb5b26d03eed03e772543173b518ab098.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00505_00/EP9000-NPEA00505_00-HELLDIVERSSCEE00_bg_1_42671b2cb5b26d03eed03e772543173b518ab098.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00505_00-HELLDIVERSSCEE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_269" attr="psnstuff_PSN_EU_link_269"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_270_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_270">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEB00009_00/gWLguAPSg8iiAWxNNs5yS6oRa2RfVXjEtchYmGB4hV3Dx4NrU8HxoBp4F2he4B8rFbwLspgiQKgXoPFRimcw1xSemLXlDC1GcNuHn.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEB00009_00/gWLguAPSg8iiAWxNNs5yS6oRa2RfVXjEtchYmGB4hV3Dx4NrU8HxoBp4F2he4B8rFbwLspgiQKgXoPFRimcw1xSemLXlDC1GcNuHn.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0017-NPEB00009_00-HSOPOKERGOLDSCEE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_270" attr="psnstuff_PSN_EU_link_270"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_271_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_271">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00047_00/WxdtpV1sNf2J3NPFAVGA8w3FuYGGuxBMEqETFhfxQ0JtpsvCfKR0K7Ns1c0CR9rQ8157vPD1Py8oe0JSVvdeuN35AvJNE0QuhbRKx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00047_00/WxdtpV1sNf2J3NPFAVGA8w3FuYGGuxBMEqETFhfxQ0JtpsvCfKR0K7Ns1c0CR9rQ8157vPD1Py8oe0JSVvdeuN35AvJNE0QuhbRKx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00047_00-HVBOWLING0000012</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_271" attr="psnstuff_PSN_EU_link_271"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_272_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_272">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00914_00/kDANvkwSFRTvOUDQtWAhixZCMDGxlGqPEfpUFngXiiwdCIRLOPLNUfMTXcbfdBQY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00914_00/kDANvkwSFRTvOUDQtWAhixZCMDGxlGqPEfpUFngXiiwdCIRLOPLNUfMTXcbfdBQY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00914_00-HITMANABSOLUTION</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_272" attr="psnstuff_PSN_EU_link_272"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_273_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_273">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00840_00/wSEbNYPEUyOnQOWdoLMmYxjEcJtJAaExkURXbxGHSFAxQCwpheaxGlaBHOZjpTvF.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00840_00/wSEbNYPEUyOnQOWdoLMmYxjEcJtJAaExkURXbxGHSFAxQCwpheaxGlaBHOZjpTvF.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0776-NPEB00840_00-HITMANSAEU000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_273" attr="psnstuff_PSN_EU_link_273"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_274_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_274">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00992_00/tlvOPPnPSTzBoeyFwqgRdQdrMQJXnltLmZLDmyUxGSYieOelbDkRpsidubHByjojqjpcJDRZZhMOQzvMssqtihzxBpoCjzbsIaUXb.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00992_00/tlvOPPnPSTzBoeyFwqgRdQdrMQJXnltLmZLDmyUxGSYieOelbDkRpsidubHByjojqjpcJDRZZhMOQzvMssqtihzxBpoCjzbsIaUXb.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00992_00-HITMANABSOLUTION</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_274" attr="psnstuff_PSN_EU_link_274"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_275_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_275">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00993_00/XbAZiMkRjnbvvWnugZbEpnLVACmUZrxWfChJRkyDgIMkvWcRQxyZKUKTUQTSFMnz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00993_00/XbAZiMkRjnbvvWnugZbEpnLVACmUZrxWfChJRkyDgIMkvWcRQxyZKUKTUQTSFMnz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00993_00-HITMANABSOLUTION</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_275" attr="psnstuff_PSN_EU_link_275"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_276_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_276">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00839_00/gvTwPHJsgMnZJjQVCnFNHNUtddPIFHpjxnCntKZXRQyJCDxjylgrgqukJWMOONnC.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00839_00/gvTwPHJsgMnZJjQVCnFNHNUtddPIFHpjxnCntKZXRQyJCDxjylgrgqukJWMOONnC.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0776-NPEB00839_00-HITMANBLOODMEU00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_276" attr="psnstuff_PSN_EU_link_276"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_277_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_277">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00841_00/IkVORgBGJUnVFLjOMpyFQbtQFyrrrDuERvfdWvpHOCtfYwpSakPjwEcoraKoXrEh.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0776/NPEB00841_00/IkVORgBGJUnVFLjOMpyFQbtQFyrrrDuERvfdWvpHOCtfYwpSakPjwEcoraKoXrEh.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0776-NPEB00841_00-HITMANCONTREU000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_277" attr="psnstuff_PSN_EU_link_277"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_278_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_278">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00867_00/HXpguIsdRBKBPvVJAIrfPofGNviDEoZRqgilyOEkSimvoErmljeTMaInXBZQdspr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00867_00/HXpguIsdRBKBPvVJAIrfPofGNviDEoZRqgilyOEkSimvoErmljeTMaInXBZQdspr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00867_00-HMSNIPER00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_278" attr="psnstuff_PSN_EU_link_278"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_279_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_279">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00474_00/cjEPvwZEWtMwWceVgACYoSGTpSZGiqpofSQNhnXWfCMgwlWugHnqzVKYcJbuJkWu.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00474_00/cjEPvwZEWtMwWceVgACYoSGTpSZGiqpofSQNhnXWfCMgwlWugHnqzVKYcJbuJkWu.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00474_00-HOHOKUMGAME00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_279" attr="psnstuff_PSN_EU_link_279"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_280_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_280">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB01341_00/BwCJkfBGvZEXLOoyEMrkFbUQjwKyOVTeOYoVcgGSGDMXzmnTqzuqvrMleDgiCWVa.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB01341_00/BwCJkfBGvZEXLOoyEMrkFbUQjwKyOVTeOYoVcgGSGDMXzmnTqzuqvrMleDgiCWVa.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP3643-NPEB01341_00-HOTLINEMIAMI0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_280" attr="psnstuff_PSN_EU_link_280"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_281_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_281">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB02007_00/EP3643-NPEB02007_00-HOTLINEMIAMI2000_bg_3_9de2ea932e971ad0e27c7e6cb01ea66efc8beaf8.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB02007_00/EP3643-NPEB02007_00-HOTLINEMIAMI2000_bg_3_9de2ea932e971ad0e27c7e6cb01ea66efc8beaf8.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP3643-NPEB02007_00-HOTLINEMIAMI2000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_281" attr="psnstuff_PSN_EU_link_281"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_282_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_282">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00849_00/oeIULDVmPSvyTLACdkHywhigtZLuLvsOhgwoDMfaJiGiSDbcJlGkusiAVzFmnyBY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00849_00/oeIULDVmPSvyTLACdkHywhigtZLuLvsOhgwoDMfaJiGiSDbcJlGkusiAVzFmnyBY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00849_00-THEHOUSEDEAD3PSN</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_282" attr="psnstuff_PSN_EU_link_282"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_283_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_283">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00857_00/ApTUxHCtyGBpAbvmUXEYEWHMSySvzrfjydNxeVdkxxyufqEZXnVWQNzHfZnVOFVm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00857_00/ApTUxHCtyGBpAbvmUXEYEWHMSySvzrfjydNxeVdkxxyufqEZXnVWQNzHfZnVOFVm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00857_00-THOD4EXTENDEDCUT</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_283" attr="psnstuff_PSN_EU_link_283"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_284_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_284">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00781_00/FowoAwoGEIPOVDRntiQjdWfVZNBCjcnMjUqHQkRutEOvDZUdDfEoXQrjdxoYPiwq.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00781_00/FowoAwoGEIPOVDRntiQjdWfVZNBCjcnMjUqHQkRutEOvDZUdDfEoXQrjdxoYPiwq.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00781_00-HOTDOKECPSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_284" attr="psnstuff_PSN_EU_link_284"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_285_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_285">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00145_00/0YKXFpaga6bfG2tyOFcL7fGFefklhq01f7FxmXy84PRJiy9nGWRKQ9KbNQ9l9n0V2wpwpDcGdVfUJKeR29a3aWSyKTO0IrfSKsgoP.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00145_00/0YKXFpaga6bfG2tyOFcL7fGFefklhq01f7FxmXy84PRJiy9nGWRKQ9KbNQ9l9n0V2wpwpDcGdVfUJKeR29a3aWSyKTO0IrfSKsgoP.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00145_00-UHUSTLEKIN000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_285" attr="psnstuff_PSN_EU_link_285"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_286_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_286">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPEB00377_00/MszRJWElIvRceXVdkMmXVRvMAUkHTdsDoiBlcfUcCeFBImoGwzPiVrSGkMvVcRZj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPEB00377_00/MszRJWElIvRceXVdkMmXVRvMAUkHTdsDoiBlcfUcCeFBImoGwzPiVrSGkMvVcRZj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4068-NPEB00377_00-HYDROPHOBIA00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_286" attr="psnstuff_PSN_EU_link_286"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_287_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_287">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00279_00/wmgwuacyokQqRQTuQfmIABHhBtKiYUuJHVRLtCbDqtqCealSNnEhMZEFsOxwyUZq.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00279_00/wmgwuacyokQqRQTuQfmIABHhBtKiYUuJHVRLtCbDqtqCealSNnEhMZEFsOxwyUZq.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00279_00-ICO0000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_287" attr="psnstuff_PSN_EU_link_287"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_288_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_288">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00252_00/FoNeaU1MyRRdI0KXgOdpxuBsWeRCMRSTBGDLCeexHKqXSJpEGOiHA9gac4XxFxRULmUXKyyMupURXQF0aVCjubnafjsPEHJquQ1CR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00252_00/FoNeaU1MyRRdI0KXgOdpxuBsWeRCMRSTBGDLCeexHKqXSJpEGOiHA9gac4XxFxRULmUXKyyMupURXQF0aVCjubnafjsPEHJquQ1CR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00252_00-TRIALSHP06091754</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_288" attr="psnstuff_PSN_EU_link_288"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_289_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_289">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00257_00/9Ws1p5NFi5Te0EISnSCPKUnV9YLNRLi04rgtKBf0Jq3aA5NvRLWEqbuhMjnEgma41r6kWlIfIXNwdeuCEne3A255RSU0TAG2JhO4u.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00257_00/9Ws1p5NFi5Te0EISnSCPKUnV9YLNRLi04rgtKBf0Jq3aA5NvRLWEqbuhMjnEgma41r6kWlIfIXNwdeuCEne3A255RSU0TAG2JhO4u.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00257_00-TRIALSHP06101935</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_289" attr="psnstuff_PSN_EU_link_289"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_290_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_290">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00322_00/RcCoyXqSQshNkfhXVKJshfxRznrgYbWrItxHLvzZaQbmknzknCTLfkcioJlwVLVe.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00322_00/RcCoyXqSQshNkfhXVKJshfxRznrgYbWrItxHLvzZaQbmknzknCTLfkcioJlwVLVe.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00322_00-BLOODSHP10121433</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_290" attr="psnstuff_PSN_EU_link_290"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_291_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_291">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00318_00/BCDFDBFsezLupfuauRnpyaoSRfEtYnuZJnylRZHNxhAhgYOXiLgUNLeWVXugdhcx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00318_00/BCDFDBFsezLupfuauRnpyaoSRfEtYnuZJnylRZHNxhAhgYOXiLgUNLeWVXugdhcx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00318_00-TRIALSHP06021747</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_291" attr="psnstuff_PSN_EU_link_291"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_292_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_292">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4135/NPEB00999_00/hSKGQWaUwSSjvwrtwHWNihDGKyRYakLGmgMNlkqIvLKcBsoKmLKnKgGhgWbhUYJY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4135/NPEB00999_00/hSKGQWaUwSSjvwrtwHWNihDGKyRYakLGmgMNlkqIvLKcBsoKmLKnKgGhgWbhUYJY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4135-NPEB00999_00-HDDFULLGAME00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_292" attr="psnstuff_PSN_EU_link_292"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_293_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_293">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4128/NPEB02029_00/EP4128-NPEB02029_00-INVOKERST0000001_bg_1_3741647957a2b99236a3d7fb7e6b94108a8d2882.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4128/NPEB02029_00/EP4128-NPEB02029_00-INVOKERST0000001_bg_1_3741647957a2b99236a3d7fb7e6b94108a8d2882.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4128-NPEB02029_00-INVOKERST0000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_293" attr="psnstuff_PSN_EU_link_293"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_294_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_294">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4335/NPEB00769_00/AXJelGoHTGbXcfyKVphPLVPpSSLjdeUpeGlMtMGFvJIPpqGAdmcuMADcNvMjzyZA.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4335/NPEB00769_00/AXJelGoHTGbXcfyKVphPLVPpSSLjdeUpeGlMtMGFvJIPpqGAdmcuMADcNvMjzyZA.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4335-NPEB00769_00-IONASSAULT000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_294" attr="psnstuff_PSN_EU_link_294"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_295_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_295">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00339_00/eftykKyDZYHcIMDcSvkpKhTlnqYjIgGzeBAsNcfDlXcoZWJkntVDsTfiMnDXftmE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00339_00/eftykKyDZYHcIMDcSvkpKhTlnqYjIgGzeBAsNcfDlXcoZWJkntVDsTfiMnDXftmE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00339_00-JAKII00000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_295" attr="psnstuff_PSN_EU_link_295"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_296_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_296">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00340_00/JfWIXHExcdxROSkpsDugLGuTGlIYAIAbnFUBxvvJcmLCPexBxNDTNmcHwLHptQdL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00340_00/JfWIXHExcdxROSkpsDugLGuTGlIYAIAbnFUBxvvJcmLCPexBxNDTNmcHwLHptQdL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00340_00-JAK3000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_296" attr="psnstuff_PSN_EU_link_296"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_297_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_297">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00338_00/JkXCepDZXgNQwnpEErladNptWgvrkcEjdLQPeAwncWomLEmXJLPsObPpXHagfiZD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00338_00/JkXCepDZXgNQwnpEErladNptWgvrkcEjdLQPeAwncWomLEmXJLPsObPpXHagfiZD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00338_00-JAKANDDAXTER0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_297" attr="psnstuff_PSN_EU_link_297"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_298_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_298">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4249/NPEB01240_00/itQfgdNjlCExRTSeneqBCgkSkPXCOQWyVFHsgZhNtIbhOsWNprqqHlkpUVGfFBHD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4249/NPEB01240_00/itQfgdNjlCExRTSeneqBCgkSkPXCOQWyVFHsgZhNtIbhOsWNprqqHlkpUVGfFBHD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4249-NPEB01240_00-JETPACKJOYRIDE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_298" attr="psnstuff_PSN_EU_link_298"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_299_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_299">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2034/NPEB00205_00/vFdfO39nfvQO8OqOtt9rbJY4DvXMNvtbefkl8sXn1U6gsFfS0Ti74nSiBN2q8F5L6q0Ojw2uWdvtyOQBs1OPY74QGlgA6AjrEb7LE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2034/NPEB00205_00/vFdfO39nfvQO8OqOtt9rbJY4DvXMNvtbefkl8sXn1U6gsFfS0Ti74nSiBN2q8F5L6q0Ojw2uWdvtyOQBs1OPY74QGlgA6AjrEb7LE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2034-NPEB00205_00-JOEDANGERHG00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_299" attr="psnstuff_PSN_EU_link_299"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_300_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_300">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01922_00/iXvJjGgzlmXsEjigzxgmtplCcxmUOViWDugrnVGcFdCThjhwHhaJGFuxnIQdTOAm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01922_00/iXvJjGgzlmXsEjigzxgmtplCcxmUOViWDugrnVGcFdCThjhwHhaJGFuxnIQdTOAm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01922_00-DLG00000000ASB01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_300" attr="psnstuff_PSN_EU_link_300"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_301_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_301">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00288_00/uNRDNYOTrWmzPwoRWRnMlHoGnSdOvmAuAJxXUVhrbWgEEbfxtTZxCLsthDDeVmVz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00288_00/uNRDNYOTrWmzPwoRWRnMlHoGnSdOvmAuAJxXUVhrbWgEEbfxtTZxCLsthDDeVmVz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00288_00-JOURNEYYYPRIVATE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_301" attr="psnstuff_PSN_EU_link_301"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_302_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_302">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4008/NPEB00866_00/KWcxxUPXsuWeBKZSiaVTxaeUQxpGvbHTCtFuHhrJlmORFkfrazpCnEoemeyIzAeE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4008/NPEB00866_00/KWcxxUPXsuWeBKZSiaVTxaeUQxpGvbHTCtFuHhrJlmORFkfrazpCnEoemeyIzAeE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4008-NPEB00866_00-JUDGEDEETHECITYG</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_302" attr="psnstuff_PSN_EU_link_302"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_303_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_303">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4517/NPEB02130_00/dqavaGKTfeWfptNHtbCcmEkOJOlQYJkpyyKOsPikZgytzEHfZEHFPLDVJdxloBnt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4517/NPEB02130_00/dqavaGKTfeWfptNHtbCcmEkOJOlQYJkpyyKOsPikZgytzEHfZEHFPLDVJdxloBnt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4517-NPEB02130_00-JUJU00000000SCEE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_303" attr="psnstuff_PSN_EU_link_303"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_304_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_304">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00751_00/TNYydhKyQdcHlAEiDimJYftahOeapHDTIoSLmnFFsIYCUAXfzwUgUTiHAAfFiZeb.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00751_00/TNYydhKyQdcHlAEiDimJYftahOeapHDTIoSLmnFFsIYCUAXfzwUgUTiHAAfFiZeb.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00751_00-JUSTCAUSE2PSNVER</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_304" attr="psnstuff_PSN_EU_link_304"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_305_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_305">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00418_00/AOfCKajizDwcnInYwjAortoQpgJlQmXpXDUvFvgUpzwfahHbjyLFftiQbTSWRtdZ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00418_00/AOfCKajizDwcnInYwjAortoQpgJlQmXpXDUvFvgUpzwfahHbjyLFftiQbTSWRtdZ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00418_00-GKILLZONE1000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_305" attr="psnstuff_PSN_EU_link_305"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_306_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_306">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0002/NPEB02301_00/EP0002-NPEB02301_00-KINGSQUESTCHAPT1_bg_1_2bf134a70e39ca87a961ca123edfb2be5156ab73.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0002/NPEB02301_00/EP0002-NPEB02301_00-KINGSQUESTCHAPT1_bg_1_2bf134a70e39ca87a961ca123edfb2be5156ab73.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0002-NPEB02301_00-KINGSQUESTCHAPT1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_306" attr="psnstuff_PSN_EU_link_306"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_307_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_307">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01055_00/KDfHskMXOrUmJLZPfVmYKNAblFrsVDpbVzqzaarebmGKKwSJjqHrgadOoTlGItqt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01055_00/KDfHskMXOrUmJLZPfVmYKNAblFrsVDpbVzqzaarebmGKKwSJjqHrgadOoTlGItqt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB01055_00-KOARECKONINGFULL</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_307" attr="psnstuff_PSN_EU_link_307"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_308_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_308">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00368_00/KyHZlEItVmTBBLenATXPRecDTtgqIFBSBcNHrRPjSyeYRPtWZfADjlnKwZPaJCQR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00368_00/KyHZlEItVmTBBLenATXPRecDTtgqIFBSBcNHrRPjSyeYRPtWZfADjlnKwZPaJCQR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00368_00-KITEFIGHTHDDV101</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_308" attr="psnstuff_PSN_EU_link_308"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_309_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_309">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01041_00/OWLlUVJehadJSNTOOqLIyZTTgEuSudDyHlNODxeSHvsIvVkBXRZWjnZiWdpiGVzr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01041_00/OWLlUVJehadJSNTOOqLIyZTTgEuSudDyHlNODxeSHvsIvVkBXRZWjnZiWdpiGVzr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4337-NPEB01041_00-UKNYTTUNDE000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_309" attr="psnstuff_PSN_EU_link_309"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_310_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_310">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01313_00/srmaCaZgGmfetEQePFnFUfDWXZsNJqbJEuhvOXODYrUCZsjOWXMNViOeGgxHLFVO.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01313_00/srmaCaZgGmfetEQePFnFUfDWXZsNJqbJEuhvOXODYrUCZsjOWXMNViOeGgxHLFVO.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4337-NPEB01313_00-KUSOUNDTRACK0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_310" attr="psnstuff_PSN_EU_link_310"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_311_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_311">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4115/NPEB01855_00/opDPiuaKWSkxDRLBQkRGoBRngpdqgGHLpWftiTIugJqXmIlqgkGMrjIAmEXdqRiL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4115/NPEB01855_00/opDPiuaKWSkxDRLBQkRGoBRngpdqgGHLpWftiTIugJqXmIlqgkGMrjIAmEXdqRiL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4115-NPEB01855_00-SCEEKUNGFURABBIT</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_311" attr="psnstuff_PSN_EU_link_311"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_312_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_312">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPEB00850_00/eVvAkJHIRXKYrJUMKlPkTRAdfRdnvvMbXjOsCbncXsxNsYQMUMmlwxjfOTjfcElfClHJxsUlCAxSYSgUlQrfuNkZXCxBTetXBjYPg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPEB00850_00/eVvAkJHIRXKYrJUMKlPkTRAdfRdnvvMbXjOsCbncXsxNsYQMUMmlwxjfOTjfcElfClHJxsUlCAxSYSgUlQrfuNkZXCxBTetXBjYPg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1004-NPEB00850_00-LANOIREDEBASE001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_312" attr="psnstuff_PSN_EU_link_312"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_313_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_313">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4153/NPEB00220_00/mX5aGFM6D6ASoKDu0RxsITKProwvANq3yxLaOS3CKptQEVxhPSYA0AxXLVk2XIaeFmU1dnGJk0V11c5bDFH7mB75NwP6TGUVb53Vx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4153/NPEB00220_00/mX5aGFM6D6ASoKDu0RxsITKProwvANq3yxLaOS3CKptQEVxhPSYA0AxXLVk2XIaeFmU1dnGJk0V11c5bDFH7mB75NwP6TGUVb53Vx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4153-NPEB00220_00-XXXXXXXXXXXXXXXX</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_313" attr="psnstuff_PSN_EU_link_313"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_314_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_314">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00311_00/QB2Kxfprg1Q7gnE2Lv57JOJmyEBQ3CsKC9v02Mvv4L28RnH8P79ThKVGemPM3M0n.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00311_00/QB2Kxfprg1Q7gnE2Lv57JOJmyEBQ3CsKC9v02Mvv4L28RnH8P79ThKVGemPM3M0n.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00311_00-LARACROFTGOL0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_314" attr="psnstuff_PSN_EU_link_314"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_315_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_315">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4139/NPEB00201_00/f8hev0U1UKp0WJhUSUAaW4w7kebKOmuankdPHNQWYfYf7KwWMkpEJfK8J3T0orQRGOOdtwCc3HALVgnQcNnhm1OtyaXmvJEjbm2YB.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4139/NPEB00201_00/f8hev0U1UKp0WJhUSUAaW4w7kebKOmuankdPHNQWYfYf7KwWMkpEJfK8J3T0orQRGOOdtwCc3HALVgnQcNnhm1OtyaXmvJEjbm2YB.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4139-NPEB00201_00-LEADANDGOLD00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_315" attr="psnstuff_PSN_EU_link_315"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_316_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_316">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0002/NPEB02082_00/WRneONlpVGskGrszTKaOWBMVDEsdhsLvoVmGnivfpmlowrMoTPbavMwcJFdMNgRw.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0002/NPEB02082_00/WRneONlpVGskGrszTKaOWBMVDEsdhsLvoVmGnivfpmlowrMoTPbavMwcJFdMNgRw.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0002-NPEB02082_00-LEGENDOFKORRAPS3</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_316" attr="psnstuff_PSN_EU_link_316"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_317_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_317">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01032_00/VxGedVinRnApAqiMFHrUkxuNftQhuAQKCipAOyHLrLnkXfBleTHwFmnQiBnYdrca.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01032_00/VxGedVinRnApAqiMFHrUkxuNftQhuAQKCipAOyHLrLnkXfBleTHwFmnQiBnYdrca.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1018-NPEB01032_00-LEGOBATMAN200000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_317" attr="psnstuff_PSN_EU_link_317"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_318_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_318">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01179_00/DtjUOZLsbJJwDpsVwVGZufdOHXkmwbVqOGNSefrSbJveKvEqPoSCbYmfTWYRiTeU.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01179_00/DtjUOZLsbJJwDpsVwVGZufdOHXkmwbVqOGNSefrSbJveKvEqPoSCbYmfTWYRiTeU.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1018-NPEB01179_00-LEGOHP2000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_318" attr="psnstuff_PSN_EU_link_318"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_319_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_319">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1006/NPEB00654_00/fQSxsdUkwTDrxhNNBAKitgLvdADihbttjzHBTVcTRspVqXsfkWTQfFVzjupecBZA.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1006/NPEB00654_00/fQSxsdUkwTDrxhNNBAKitgLvdADihbttjzHBTVcTRspVqXsfkWTQfFVzjupecBZA.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1006-NPEB00654_00-LEGOPIRATES00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_319" attr="psnstuff_PSN_EU_link_319"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_320_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_320">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1006/NPEB00655_00/FrQzWlkSAmSTeYXdeNdJgdsVaYsmkTeXtNOCVnadvneSwwSuSeZoVvDzZoJAqFXg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1006/NPEB00655_00/FrQzWlkSAmSTeYXdeNdJgdsVaYsmkTeXtNOCVnadvneSwwSuSeZoVvDzZoJAqFXg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1006-NPEB00655_00-LEGOPIRATES00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_320" attr="psnstuff_PSN_EU_link_320"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_321_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_321">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01321_00/FCpZIYlMaRvEMZYSNiwFCefhEgaFekctiOwWtOsiChRImNgtDHQPnYVjYFkuNned.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01321_00/FCpZIYlMaRvEMZYSNiwFCefhEgaFekctiOwWtOsiChRImNgtDHQPnYVjYFkuNned.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB01321_00-DLOADVERSION0100</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_321" attr="psnstuff_PSN_EU_link_321"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_322_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_322">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00066_00/xD2lwoVJDqBkmxWY5lbMrEGY0sBWvhCijl9teGl1aoGJTUIr747yW7SgU7wMau3WpJjAYgugXvRJ3iNoQkbNhD3ShOqOpalRbbvQD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00066_00/xD2lwoVJDqBkmxWY5lbMrEGY0sBWvhCijl9teGl1aoGJTUIr747yW7SgU7wMau3WpJjAYgugXvRJ3iNoQkbNhD3ShOqOpalRbbvQD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00066_00-0LINGERINSHADOWS</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_322" attr="psnstuff_PSN_EU_link_322"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_323_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_323">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00241_00/f4BACOef13ATErAimDf519Ry6LBv4oJogYtM1gSyuT0DqdE7ctFvi9pE9hAopW2ejel4gTV3CHhjFuHSNnMFQXQCUPJjhPm0M8jkG.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00241_00/f4BACOef13ATErAimDf519Ry6LBv4oJogYtM1gSyuT0DqdE7ctFvi9pE9hAopW2ejel4gTV3CHhjFuHSNnMFQXQCUPJjhPm0M8jkG.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00241_00-GLITTLEBIG000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_323" attr="psnstuff_PSN_EU_link_323"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_324_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_324">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00324_00/kRMKmtRpMTPOrbeBCsXqGouizLNOZUjqkybyzdmOEOnKObaRJzuZlwxPAIAmBmts.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00324_00/kRMKmtRpMTPOrbeBCsXqGouizLNOZUjqkybyzdmOEOnKObaRJzuZlwxPAIAmBmts.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00324_00-GLITTLEBIG000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_324" attr="psnstuff_PSN_EU_link_324"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_325_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_325">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00421_00/SoGyRRAVBtkKPWiGGprfoUnnQkdRFNRgFxcnuUafZfXZtWhcGCMKBYdpUFtJXYjWoPRtatlDFAhjJozBvNGUYQNJLtUHDbIKLoAcr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00421_00/SoGyRRAVBtkKPWiGGprfoUnnQkdRFNRgFxcnuUafZfXZtWhcGCMKBYdpUFtJXYjWoPRtatlDFAhjJozBvNGUYQNJLtUHDbIKLoAcr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00421_00-GBETALITTL000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_325" attr="psnstuff_PSN_EU_link_325"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_326_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_326">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70002_00/QSm86JdKrCbNqA7SPxmuxgeraBM33HG1SfvCIAv8hnSx6NWe96TAAWqWsMggYFHSqinNoutPImqoMftFa1JJqCgIFTws3QEQ9u269.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70002_00/QSm86JdKrCbNqA7SPxmuxgeraBM33HG1SfvCIAv8hnSx6NWe96TAAWqWsMggYFHSqinNoutPImqoMftFa1JJqCgIFTws3QEQ9u269.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-BCET70002_00-GBETALITTL000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_326" attr="psnstuff_PSN_EU_link_326"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_327_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_327">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00036_00/sDnrN4gFxWO6BYW1nMYBh7SbbhEKGfOT6oAi3inVmj5L2PxV5TDO1E0h6EHHt9frTyiLXpISiypn4xD4VNcyJexBsKlqPxtE6OVOg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00036_00/sDnrN4gFxWO6BYW1nMYBh7SbbhEKGfOT6oAi3inVmj5L2PxV5TDO1E0h6EHHt9frTyiLXpISiypn4xD4VNcyJexBsKlqPxtE6OVOg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00036_00-LOCOROCOEURO0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_327" attr="psnstuff_PSN_EU_link_327"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_328_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_328">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01267_00/lEmzDVycpkscOUsFietaqffIRSeUqTNQPFVjunNyeiOFdmkVtrtAiYgvnRMbmBcZ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB01267_00/lEmzDVycpkscOUsFietaqffIRSeUqTNQPFVjunNyeiOFdmkVtrtAiYgvnRMbmBcZ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1018-NPEB01267_00-LOTRWITNDIGIGAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_328" attr="psnstuff_PSN_EU_link_328"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_329_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_329">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB01353_00/ZxytyxRcDzamhofFrLoDSFLOuilEYlgjyOdHZHROdMjGEqnZxHVivxAvRUWeyduv.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP3643/NPEB01353_00/ZxytyxRcDzamhofFrLoDSFLOuilEYlgjyOdHZHROdMjGEqnZxHVivxAvRUWeyduv.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP3643-NPEB01353_00-VLMBLR00000001E3</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_329" attr="psnstuff_PSN_EU_link_329"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_330_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_330">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4055/NPEB00066_00/odCjq19n3XSc0np0OPtRAdh9cusQDFNsr5pStQG7pgtjfrCquAjpjlkbcyCvsHXHXsWnODflnV28CCagewRv2A1070kcAgMm01ksK.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4055/NPEB00066_00/odCjq19n3XSc0np0OPtRAdh9cusQDFNsr5pStQG7pgtjfrCquAjpjlkbcyCvsHXHXsWnODflnV28CCagewRv2A1070kcAgMm01ksK.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4055-NPEB00066_00-LUMINES000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_330" attr="psnstuff_PSN_EU_link_330"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_331_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_331">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4360/NPEB00257_00/sHueqIuPeOWbLcVnNgeoGlLIKrYQUHnoMdKtQMQIiEhEYxqrFUoEHBRYMHjNYgCh.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4360/NPEB00257_00/sHueqIuPeOWbLcVnNgeoGlLIKrYQUHnoMdKtQMQIiEhEYxqrFUoEHBRYMHjNYgCh.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4360-NPEB00257_00-MACHINARIUM0AAAA</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_331" attr="psnstuff_PSN_EU_link_331"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_332_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_332">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB02018_00/qPTuvOImwAgxVUXOXfLWgTSPetKKxqcFYhLeaQNUnuRaFpKQqMvfRTdarNLksAWt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB02018_00/qPTuvOImwAgxVUXOXfLWgTSPetKKxqcFYhLeaQNUnuRaFpKQqMvfRTdarNLksAWt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB02018_00-MADDEN15GN3DDPEU</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_332" attr="psnstuff_PSN_EU_link_332"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_333_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_333">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00829_00/YuNPQYUNLhTsoSxgNuZpBPAOvFcPZVAFaYcUdviStPmkrItUKhwpBQBXyvQYSdxF.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00829_00/YuNPQYUNLhTsoSxgNuZpBPAOvFcPZVAFaYcUdviStPmkrItUKhwpBQBXyvQYSdxF.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB00829_00-MAFIAIIPSNGAME01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_333" attr="psnstuff_PSN_EU_link_333"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_334_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_334">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70016_00/HPoUAIQhWDTGFbKPN5t6falNGxDPiavjcphClP820xGfJrxocdpd1EAx5YFLTMmALtxqRwudvmmAKVfxKYBYxc8WAPRlyd5SHo64f.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70016_00/HPoUAIQhWDTGFbKPN5t6falNGxDPiavjcphClP820xGfJrxocdpd1EAx5YFLTMmALtxqRwudvmmAKVfxKYBYxc8WAPRlyd5SHo64f.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-BCET70016_00-GBETAMAGPU000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_334" attr="psnstuff_PSN_EU_link_334"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_335_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_335">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00068_00/krieCcR8DFrOleLhRWMuVGqbhVO5mJQA1xNxrEiByV85oOmVWOLaHnMqUkg4RNwWL9dPG2HbK9RiyPkUlqHAMGCs1rWRmTg6iEsfY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00068_00/krieCcR8DFrOleLhRWMuVGqbhVO5mJQA1xNxrEiByV85oOmVWOLaHnMqUkg4RNwWL9dPG2HbK9RiyPkUlqHAMGCs1rWRmTg6iEsfY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2004-NPEB00068_00-MAGICBALL0000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_335" attr="psnstuff_PSN_EU_link_335"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_336_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_336">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00242_00/YgqNgxONQoRVyWmSFWJgmupNcoeSunYYdcjUyPXEgwqRZFUvierGNCJeoNPuJNgY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00242_00/YgqNgxONQoRVyWmSFWJgmupNcoeSunYYdcjUyPXEgwqRZFUvierGNCJeoNPuJNgY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0576-NPEB00242_00-NEOGEOSTATION006</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_336" attr="psnstuff_PSN_EU_link_336"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_337_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_337">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00067_00/JpqwPc4esAQdFG2gEA1evm69aVWE8xTdHK7Rr4rVlsw7pVF8tlcorVp1Qv4if1ebGCOSb5IgWDYXJcehnjr5EoB9KUGpv7dBYVarL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00067_00/JpqwPc4esAQdFG2gEA1evm69aVWE8xTdHK7Rr4rVlsw7pVF8tlcorVp1Qv4if1ebGCOSb5IgWDYXJcehnjr5EoB9KUGpv7dBYVarL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2004-NPEB00067_00-MAHJONGTALESANWZ</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_337" attr="psnstuff_PSN_EU_link_337"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_338_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_338">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00366_00/nrUIdMPZbcFLPFRtEXqSMUxcCGToWRRLIcABTscVmUTQXaFcfmDlBQbdBhNPKlNy.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00366_00/nrUIdMPZbcFLPFRtEXqSMUxcCGToWRRLIcABTscVmUTQXaFcfmDlBQbdBhNPKlNy.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00366_00-GAMEPURCHASE0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_338" attr="psnstuff_PSN_EU_link_338"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_339_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_339">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4042/NPEB00379_00/CkdOPWCZPZHvpoExtyQcJjBFuKLkLsutlHdkALEPVfojACavpZNGkcpGUZonxiqc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4042/NPEB00379_00/CkdOPWCZPZHvpoExtyQcJjBFuKLkLsutlHdkALEPVfojACavpZNGkcpGUZonxiqc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4042-NPEB00379_00-MARVELPINBALL001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_339" attr="psnstuff_PSN_EU_link_339"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_340_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_340">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01195_00/SyOaCHDNOaDOUAxVtJkwcYHSlOBCGUQiCxexoguVkdANiDHIbcyafialJuJgFuTRZcKdvXosuHKoprhFPOlmGUkxMelImogTzTrmu.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01195_00/SyOaCHDNOaDOUAxVtJkwcYHSlOBCGUQiCxexoguVkdANiDHIbcyafialJuJgFuTRZcKdvXosuHKoprhFPOlmGUkxMelImogTzTrmu.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB01195_00-MECOMPILATION000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_340" attr="psnstuff_PSN_EU_link_340"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_341_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_341">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00503_00/kfzJeeqhQbdHvqLgRWgTDZjoWimYdsWaZOwchkyXjhlYMiDdDEbiQxzuhQBbdDGqNvhEGQhwplSFrhnUFMOqmTWRliPpfDCsSYsiO.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00503_00/kfzJeeqhQbdHvqLgRWgTDZjoWimYdsWaZOwchkyXjhlYMiDdDEbiQxzuhQBbdDGqNvhEGQhwplSFrhnUFMOqmTWRliPpfDCsSYsiO.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB00503_00-MASSEFFECT200000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_341" attr="psnstuff_PSN_EU_link_341"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_342_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_342">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00865_00/bYkyqfyvDihqvGObEQalwulnVDjDGvtwQxhufCMGhirGDqQYcVTVqzAeyjcQDIcn.pkg?</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00865_00/bYkyqfyvDihqvGObEQalwulnVDjDGvtwQxhufCMGhirGDqQYcVTVqzAeyjcQDIcn.pkg?</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB00865_00-MASSEFFECT3HDD00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_342" attr="psnstuff_PSN_EU_link_342"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_343_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_343">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4331/NPEB00596_00/qoJRIYSsXLNFMcYMxbHnVigrWZFgNzemqaIDucJNnttwHKKCThyOfyMivvcMluXX.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4331/NPEB00596_00/qoJRIYSsXLNFMcYMxbHnVigrWZFgNzemqaIDucJNnttwHKKCThyOfyMivvcMluXX.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4331-NPEB00596_00-HDDBOOTSAMPLE001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_343" attr="psnstuff_PSN_EU_link_343"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_344_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_344">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPEB01037_00/DNArdKrbcypIbTkQbAJTFNNGMajwlEFQzqBgBXjzVKpXdXxAwmJdRHWutWlUCYKJ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPEB01037_00/DNArdKrbcypIbTkQbAJTFNNGMajwlEFQzqBgBXjzVKpXdXxAwmJdRHWutWlUCYKJ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1004-NPEB01037_00-MAXPAYNE3DIGITAL</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_344" attr="psnstuff_PSN_EU_link_344"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_345_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_345">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01193_00/qWshqiwLTZqfANieqHtWniipTbNzGZpHhzDMYndPheoughXcELICgUuxkNbiqbRE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01193_00/qWshqiwLTZqfANieqHtWniipTbNzGZpHhzDMYndPheoughXcELICgUuxkNbiqbRE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB01193_00-MOHW000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_345" attr="psnstuff_PSN_EU_link_345"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_346_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_346">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00334_00/zRJANhLzdzjpNIOFminwcDvSgEiQsUoeUzRKdNRMRifCllnMlxJUzFDdqyyhpLRV.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00334_00/zRJANhLzdzjpNIOFminwcDvSgEiQsUoeUzRKdNRMRifCllnMlxJUzFDdqyyhpLRV.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00334_00-DQ00000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_346" attr="psnstuff_PSN_EU_link_346"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_347_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_347">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00141_00/fxnlUwtc90s97X8BDt574gKoA96qF49JErLHSDW7kKgBBRYeJkELlkJDOeTuDTa16lt2qPGR3hqifXTMpMSM6lxPGfqBAMIkCRq4I.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00141_00/fxnlUwtc90s97X8BDt574gKoA96qF49JErLHSDW7kKgBBRYeJkELlkJDOeTuDTa16lt2qPGR3hqifXTMpMSM6lxPGfqBAMIkCRq4I.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0102-NPEB00141_00-INTIROCKMAN10000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_347" attr="psnstuff_PSN_EU_link_347"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_348_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_348">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00037_00/eQsM9Lp46pyGscQ4sNEmH4iWE9RFxrdH23isBUyAhQ7ftrf7S1FpXO0H4DAdYgSpd9GvBeD3lGvQ3FiQVuwmM5Via5jWfr5PDaScp.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00037_00/eQsM9Lp46pyGscQ4sNEmH4iWE9RFxrdH23isBUyAhQ7ftrf7S1FpXO0H4DAdYgSpd9GvBeD3lGvQ3FiQVuwmM5Via5jWfr5PDaScp.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0102-NPEB00037_00-INTIRM9P00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_348" attr="psnstuff_PSN_EU_link_348"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_349_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_349">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00030_00/ocpNp4ce0xksd2vtfvvBkOIiKEyrkVAW4M0nmgvEURhR1EFaPpePJSbSp5uOf3YrwtkGfPUtMSRP9Y1ldrfHaTlrbo6es5eh2cdCS.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00030_00/ocpNp4ce0xksd2vtfvvBkOIiKEyrkVAW4M0nmgvEURhR1EFaPpePJSbSp5uOf3YrwtkGfPUtMSRP9Y1ldrfHaTlrbo6es5eh2cdCS.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00030_00-MESMERIZEPACK001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_349" attr="psnstuff_PSN_EU_link_349"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_350_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_350">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00030_00/T4ilK9tt3n5CHolS67EKolbrao0QxrR9qCEHJyTWs7sfka1dCoxKn4IFJAkbgRa7drDRyIFTnG2wFK8isl1TTE0aFrRVdVXvVNG3x.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00030_00/T4ilK9tt3n5CHolS67EKolbrao0QxrR9qCEHJyTWs7sfka1dCoxKn4IFJAkbgRa7drDRyIFTnG2wFK8isl1TTE0aFrRVdVXvVNG3x.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00030_00-MESMERIZEPACK002</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_350" attr="psnstuff_PSN_EU_link_350"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_351_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_351">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/BLET70000_00/3JFfG1JDa78BEDTaEg9y2wkcisswFOLUX50iBRwxRpiyLcuYsGSYtjpghXrkTe1LTgUlSruMEm7JIrMhKULtSOHy2wpaY8RF8rf9E.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/BLET70000_00/3JFfG1JDa78BEDTaEg9y2wkcisswFOLUX50iBRwxRpiyLcuYsGSYtjpghXrkTe1LTgUlSruMEm7JIrMhKULtSOHy2wpaY8RF8rf9E.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-BLET70000_00-METALGEARONLINEB</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_351" attr="psnstuff_PSN_EU_link_351"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_352_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_352">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB01228_00/QFidrBaTjwRgoXmlPsqoEDUrIKlTbGyxopCSRcFiqDiHZNmPmmZYnkLxSjVocFET.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB01228_00/QFidrBaTjwRgoXmlPsqoEDUrIKlTbGyxopCSRcFiqDiHZNmPmmZYnkLxSjVocFET.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB01228_00-MGRGAMEMAIN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_352" attr="psnstuff_PSN_EU_link_352"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_353_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_353">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB01889_00/glLGopSyVRFEauxOwTMhSwznCBmIpsKTCthZkplnDgnCHbcKWYFmeMeqKdUxnEBRgOGRKwVwVmukCickuwZBqjPirYafUGRlvbQCu.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB01889_00/glLGopSyVRFEauxOwTMhSwznCBmIpsKTCthZkplnDgnCHbcKWYFmeMeqKdUxnEBRgOGRKwVwVmukCickuwZBqjPirYafUGRlvbQCu.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB01889_00-MAINGAME00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_353" attr="psnstuff_PSN_EU_link_353"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_354_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_354">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00686_00/AAEnWIZaMJrTCvmLPuelqqCJPyhpKsTNvHXhXJTOSNcoTCszJyKsDSMVYrDVscYn.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00686_00/AAEnWIZaMJrTCvmLPuelqqCJPyhpKsTNvHXhXJTOSNcoTCszJyKsDSMVYrDVscYn.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB00686_00-MGSPWHDEDITION00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_354" attr="psnstuff_PSN_EU_link_354"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_355_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_355">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00685_00/wXhybznnxfAdWXbkchYHfjWcDBnPdQbFmqbqKeHIIwrFjAWgxqpswOokAWssJpqT.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00685_00/wXhybznnxfAdWXbkchYHfjWcDBnPdQbFmqbqKeHIIwrFjAWgxqpswOokAWssJpqT.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB00685_00-EUSMGS2HG0013340</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_355" attr="psnstuff_PSN_EU_link_355"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_356_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_356">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00684_00/zRyZIQbghjWVCnaIlorRoXJUNmEcoUbKpqGAUAAIPylnnSnZikejhXapgbDVMLMG.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB00684_00/zRyZIQbghjWVCnaIlorRoXJUNmEcoUbKpqGAUAAIPylnnSnZikejhXapgbDVMLMG.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB00684_00-EUSMGS3HG0013340</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_356" attr="psnstuff_PSN_EU_link_356"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_357_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_357">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB02182_00/EP0101-NPEB02182_00-MGS4MAINGAME0000_bg_1_a625a8e6ac40a4f6228733858b44bca3e8c003e9_00.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB02182_00/EP0101-NPEB02182_00-MGS4MAINGAME0000_bg_1_a625a8e6ac40a4f6228733858b44bca3e8c003e9_00.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB02182_00-MGS4MAINGAME0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_357" attr="psnstuff_PSN_EU_link_357"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_358_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_358">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB02140_00/EP0101-NPEB02140_00-MAINGAME00000000_bg_1_fc739fb0ec448f0046340c580af19ef662697e04.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0101/NPEB02140_00/EP0101-NPEB02140_00-MAINGAME00000000_bg_1_fc739fb0ec448f0046340c580af19ef662697e04.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0101-NPEB02140_00-MAINGAME00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_358" attr="psnstuff_PSN_EU_link_358"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_359_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_359">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00681_00/xBvNLzhmRGtJAHeMWWUjQvIpdriocDTItYPKawJmCWPmBFTWFvYLhdGVxhnMmWsX.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00681_00/xBvNLzhmRGtJAHeMWWUjQvIpdriocDTItYPKawJmCWPmBFTWFvYLhdGVxhnMmWsX.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0576-NPEB00681_00-NEOGEOSTATION021</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_359" attr="psnstuff_PSN_EU_link_359"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_360_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_360">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB02252_00/EP0576-NPEB02252_00-METALSLUG3000000_bg_1_52a382f7fd2bbc1042e61becd7e5738aa30557a9.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB02252_00/EP0576-NPEB02252_00-METALSLUG3000000_bg_1_52a382f7fd2bbc1042e61becd7e5738aa30557a9.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0576-NPEB02252_00-METALSLUG3000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_360" attr="psnstuff_PSN_EU_link_360"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_361_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_361">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB01369_00/pmJOZhdkivHDqJwnbHgMVcACIJqTewqIWacuMfnFjExzXpYTJhhFMUhaATnqoCvA.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB01369_00/pmJOZhdkivHDqJwnbHgMVcACIJqTewqIWacuMfnFjExzXpYTJhhFMUhaATnqoCvA.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4062-NPEB01369_00-HDDBOOTMETROLL00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_361" attr="psnstuff_PSN_EU_link_361"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_362_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_362">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00052_00/zPcTbgkNTXleJqiVpIrXLuUfMOQOiNqSQzBPKIKmVdXexIWdHzWxWbxGBDllgXfk.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB00052_00/zPcTbgkNTXleJqiVpIrXLuUfMOQOiNqSQzBPKIKmVdXexIWdHzWxWbxGBDllgXfk.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB00052_00-MIEPSNEU00000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_362" attr="psnstuff_PSN_EU_link_362"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_363_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_363">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00291_00/raUnavwXdRHSQppNBtbOPezZAFpHSDdDRKfCuEhamXusEAuVgHyoEqPPFRIugqgB.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00291_00/raUnavwXdRHSQppNBtbOPezZAFpHSDdDRKfCuEhamXusEAuVgHyoEqPPFRIugqgB.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00291_00-GMODNATION000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_363" attr="psnstuff_PSN_EU_link_363"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_364_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_364">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB00847_00/yrCAIjrvDhsfhCnZrwjquxKbVPeZwUlvlwrMAXMFIbvHctXXNfaQJWRhmSUKtxec.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB00847_00/yrCAIjrvDhsfhCnZrwjquxKbVPeZwUlvlwrMAXMFIbvHctXXNfaQJWRhmSUKtxec.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1018-NPEB00847_00-MK9HDDCONVERSION</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_364" attr="psnstuff_PSN_EU_link_364"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_365_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_365">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEB00002_00/2gyMxJpJ0kpfTTeovRq8VUySJfgbrcxOKucfEKIUa5YvySG7AMkMNWXXNmkVJ2hQB4jNmF4KS9jyWTWMKIhJR9Rymn62qbIiSyOFd.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEB00002_00/2gyMxJpJ0kpfTTeovRq8VUySJfgbrcxOKucfEKIUa5YvySG7AMkMNWXXNmkVJ2hQB4jNmF4KS9jyWTWMKIhJR9Rymn62qbIiSyOFd.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0017-NPEB00002_00-MORTALKOMBAT2BBE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_365" attr="psnstuff_PSN_EU_link_365"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_366_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_366">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB01938_00/VKGXkdEzYPWQwzqLVwNQPMUwgbIOBKxqqofiSxciIaXwtcunmFRCDNrpPfVHnmcl.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB01938_00/VKGXkdEzYPWQwzqLVwNQPMUwgbIOBKxqqofiSxciIaXwtcunmFRCDNrpPfVHnmcl.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4356-NPEB01938_00-MOTOGP13COMPACT0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_366" attr="psnstuff_PSN_EU_link_366"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_367_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_367">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB02194_00/KJcGikPJYACtBQQGmazsKFjIiMwfLLCBoLTYSDrcPPoXzcauOJJuJPgnXmPpWvzC.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB02194_00/KJcGikPJYACtBQQGmazsKFjIiMwfLLCBoLTYSDrcPPoXzcauOJJuJPgnXmPpWvzC.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4356-NPEB02194_00-MOTOGP14COMPACT0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_367" attr="psnstuff_PSN_EU_link_367"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_368_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_368">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00315_00/qcseYMZsWpldqyPpnFFwCZDlgNAbqBDPtjpCDiqizVhoUhsLYehdJSwmlruxnCsc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00315_00/qcseYMZsWpldqyPpnFFwCZDlgNAbqBDPtjpCDiqizVhoUhsLYehdJSwmlruxnCsc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00315_00-GMOTORSTOR000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_368" attr="psnstuff_PSN_EU_link_368"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_369_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_369">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB02041_00/RVYBGFPHRkYBsnMgnXInuANTkyPrtnooayWQrISpHDTCEsgUIFyKCaOVNwrYYdgK.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB02041_00/RVYBGFPHRkYBsnMgnXInuANTkyPrtnooayWQrISpHDTCEsgUIFyKCaOVNwrYYdgK.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4395-NPEB02041_00-MOUSECRAFTPS3000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_369" attr="psnstuff_PSN_EU_link_369"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_370_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_370">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00397_00/ZrSWRDaUrCOGNaMVgtnpGOxWPnUiGVlixoYmwXDLNPGiKmKKLdhOBGllIxWcvdXp.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00397_00/ZrSWRDaUrCOGNaMVgtnpGOxWPnUiGVlixoYmwXDLNPGiKmKKLdhOBGllIxWcvdXp.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00397_00-MOVESCRICKET2HDD</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_370" attr="psnstuff_PSN_EU_link_370"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_371_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_371">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4073/NPEB01437_00/LANQVeIJXwXzFvTpZGAuAjvSxTQaaiZCJGOIUZvvFJsxnWaLowYkVhqsXCMrNbnE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4073/NPEB01437_00/LANQVeIJXwXzFvTpZGAuAjvSxTQaaiZCJGOIUZvvFJsxnWaLowYkVhqsXCMrNbnE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4073-NPEB01437_00-MSGERMINATOR0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_371" attr="psnstuff_PSN_EU_link_371"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_372_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_372">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4164/NPEA00258_00/rByOCD9ygx6h3PkyGDbfwTIdUOJff80wSn5pRUviMqJdRdpo9e6oASdRRFwNseG5.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4164/NPEA00258_00/rByOCD9ygx6h3PkyGDbfwTIdUOJff80wSn5pRUviMqJdRdpo9e6oASdRRFwNseG5.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4164-NPEA00258_00-MUBI0FULL0000101</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_372" attr="psnstuff_PSN_EU_link_372"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_373_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_373">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB00925_00/jmatkOAQrMdSPZnPaDZhyPivDGbKFmggWVCGRUgGSDksqjihitFllBEFMhyfeCkm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB00925_00/jmatkOAQrMdSPZnPaDZhyPivDGbKFmggWVCGRUgGSDksqjihitFllBEFMhyfeCkm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4356-NPEB00925_00-PSNVERSION000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_373" attr="psnstuff_PSN_EU_link_373"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_374_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_374">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01432_00/OVyJenzvsKPAgYSQtLwMUtiShCRgjhhWckdtXgJDErvgAjqYbpjTxYanxUJwgWtkipwmpHnRbixRyZeZIeeQrGehirsesBxvNbSFZ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01432_00/OVyJenzvsKPAgYSQtLwMUtiShCRgjhhWckdtXgJDErvgAjqYbpjTxYanxUJwgWtkipwmpHnRbixRyZeZIeeQrGehirsesBxvNbSFZ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB01432_00-MURDEREDHDDGAME0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_374" attr="psnstuff_PSN_EU_link_374"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_375_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_375">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4073/NPEB00120_00/youpu05Vx8t4jdlOiPip2uVW5Kl0ISNRtOv46wpmlkvCmAoCocP3GvCNDP5jLF91wpO0n3JA2lgUqk8vLlepnn9m2RXCylHGmRd8J.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4073/NPEB00120_00/youpu05Vx8t4jdlOiPip2uVW5Kl0ISNRtOv46wpmlkvCmAoCocP3GvCNDP5jLF91wpO0n3JA2lgUqk8vLlepnn9m2RXCylHGmRd8J.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4073-NPEB00120_00-MUSHROOMS0000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_375" attr="psnstuff_PSN_EU_link_375"/>
+        </Items>
+    </View>
+
+
+</XMBML>

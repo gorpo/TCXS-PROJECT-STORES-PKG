@@ -1,0 +1,83 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <Table key="ps2_18">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/pgen.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Sega Genesis Mega Drive: PGEN - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: PORTUGUÊS (LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/d4zlz6ey1xcm989/UP0000-SLUS00000_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+			<Table key="ps2_19">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/snes.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Super Nintendo Entertainment System: SNES STATION - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: PORTUGUÊS (LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/q4miivo3x1ri61h/UP0000-SLUS00001_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+			<Table key="ps2_38">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/nes.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Nintendo Entertainment System: NES - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/kjlgbgfvhf7yc3f/UP9000-SLUS00886_00-0000000000000001.pkg?dl=1</String></Pair>
+            </Table>
+            <!--Atualização TCXS PROJECT 1.6+ Abaixo-->
+            <Table key="ps2_atari2600">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/atari2600.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Atari 2600 Vol. 1 - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/fspf83xq224jf5j/UP9000-SLUS00777_00-0000000000000001.pkg?dl=1</String></Pair>
+            </Table>
+            <Table key="retro_atari26001">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/atari26001.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Atari 2600 Vol. 2 - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/p8ggd3q8kej31hq/UP0000-SLUS20273_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+            <Table key="retro_atari26002">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/atari26002.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Atari 2600 Vol.3 - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/rqyfa2o21v5kl7d/UP0000-SLUS21076_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+            <Table key="retro_gba">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/gba.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Game Boy Advance - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/sqi9t251n8j8pxa/UP0000-SLUS20223_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+            <!--Atualização TCXS PROJECT 1.7+ Abaixo-->
+            <Table key="retro_mastersystem">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/mastersystem.jpg</String></Pair>
+                <Pair key="title"><String>TCXS - Master System - TCXS</String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLÊS (DUBLADO e LEGENDADO) - TCXS</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/vy2uv77opfpkd9v/EP0000-SLES66654_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+      			<!-- 3.8 -->
+      			<Table key="retro_retroarch">
+                      <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/emuladores/retroarchps2.jpg</String></Pair>
+                      <Pair key="title"><String>TCXS - Retroarch 1.8.5 - TCXS</String></Pair>
+                      <Pair key="info"><String>Idioma do Jogo: INGLÊS (LEGENDADO) - TCXS</String></Pair>
+                      <Pair key="module_name"><String>webrender_plugin</String></Pair>
+      				<Pair key="module_action"><String>https://www.dropbox.com/s/sqi9t251n8j8pxa/UP0000-SLUS20223_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+            </Table>
+            </Attributes>
+        <Items>
+            <Item class="type:x-xmb/module-action" key="ps2_atari2600" attr="ps2_atari2600"/>
+            <Item class="type:x-xmb/module-action" key="retro_atari26001" attr="retro_atari26001"/>
+            <Item class="type:x-xmb/module-action" key="retro_atari26002" attr="retro_atari26002"/>
+            <Item class="type:x-xmb/module-action" key="retro_gba" attr="retro_gba" />
+            <Item class="type:x-xmb/module-action" key="retro_mastersystem" attr="retro_mastersystem"/>
+            <Item class="type:x-xmb/module-action" key="ps2_38" attr="ps2_38" />
+            <Item class="type:x-xmb/module-action" key="retro_retroarch" attr="retro_retroarch"/>
+            <Item class="type:x-xmb/module-action" key="ps2_18" attr="ps2_18"/>
+            <Item class="type:x-xmb/module-action" key="ps2_19" attr="ps2_19"/>
+        </Items>
+    </View>
+</XMBML>
