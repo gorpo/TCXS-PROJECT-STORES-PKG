@@ -1,0 +1,44 @@
+<XMBML version="1.0">
+    <View id="tcxs_items">
+        <Attributes>
+            <!-- id:0 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS HD  -->
+            <Table key="tcxs_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/rerhd.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations HD </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/xnhz3qj05jotdml/1DGAME-NPEB01773_00-NPEB017730000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:1 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS HD  -->
+            <Table key="tcxs_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/rerhd.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations HD </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/l03ljtb6b7z55ah/2DGAME-NPEB01773_00-NPEB017730000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:2 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS HD  -->
+            <Table key="tcxs_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/rerhd.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations HD </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/te5t9vdrsgmx27m/3DGAME-NPEB01773_00-NPEB017730000000.pkg?dl=1</String></Pair>
+            </Table>
+            <!-- id:3 | PlayStation PS3 | TCXS PROJECT 2020 | RESIDENT EVIL REVELATIONS HD  -->
+            <Table key="tcxs_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/rerhd.jpg</String></Pair>
+                <Pair key="title"><String>Jogo: Resident Evil Revelations HD </String></Pair>
+                <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://www.dropbox.com/s/uoga28ybwhvltgx/2PATCH-BLES01773_00-BLES017730000000.pkg?dl=1</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+                <Item class="type:x-xmb/module-action" key="tcxs_0" attr="tcxs_0" />
+                <Item class="type:x-xmb/module-action" key="tcxs_1" attr="tcxs_1" />
+                <Item class="type:x-xmb/module-action" key="tcxs_2" attr="tcxs_2" />
+                <Item class="type:x-xmb/module-action" key="tcxs_3" attr="tcxs_3" />
+		</Items>
+	</View>
+</XMBML>
