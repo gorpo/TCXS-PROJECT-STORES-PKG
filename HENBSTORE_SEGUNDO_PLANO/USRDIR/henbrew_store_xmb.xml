@@ -1,23 +1,14 @@
 <XMBML version="1.0">
     <View id="henbrew_store_xmb_main">
         <Attributes>
-            <Table key="tcxs_project_web">
-                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/menu/logo.png</String></Pair>
-                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String>TCXS PROJECT WEB</String></Pair>
-                <Pair key="info"><String>HAN | HEN | CFW</String></Pair>
-            	<Pair key="module_name"><String>webrender_plugin</String></Pair>
-            	<Pair key="module_action"><String>http://tcxsproject.com.br/store/index.php</String></Pair>
-            </Table>
             <Table key="tcxs_project_pkg">
                 <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/menu/logo.png</String></Pair>
                 <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String>TCXS PROJECT PKG</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT STORE</String></Pair>
                 <Pair key="info"><String>HFW | HFW | OWF</String></Pair>
             </Table>
         </Attributes>
         <Items>
-            <Item class="type:x-xmb/module-action" key="tcxs_project_web" attr="tcxs_project_web" />
             <Query class="type:x-xmb/folder-pixmap" key="tcxs_project_pkg" attr="tcxs_project_pkg" src="#menus"/>
         </Items>
     </View>
@@ -25,6 +16,14 @@
     <!-- menuS TCXS PROJECT -->
     <View id="menus">
         <Attributes>
+            <Table key="tcxs_project_web">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/menu/logo.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT WEB</String></Pair>
+                <Pair key="info"><String>HAN | HEN | CFW</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>http://tcxsproject.com.br/store/index.php</String></Pair>
+            </Table>
             <Table key="jogos_psp">
                 <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/menu/psp.png</String></Pair>
                 <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
@@ -70,6 +69,7 @@
             
         </Attributes>
         <Items>
+            <Item class="type:x-xmb/module-action" key="tcxs_project_web" attr="tcxs_project_web" />
             <Query class="type:x-xmb/folder-pixmap" key="jogos_psp" attr="jogos_psp" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/psp.xml#tcxs_items"/>
             <Query class="type:x-xmb/folder-pixmap" key="jogos_ps1" attr="jogos_ps1" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/ps1.xml#tcxs_items"/>
             <Query class="type:x-xmb/folder-pixmap" key="jogos_ps2" attr="jogos_ps2" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/ps2.xml#tcxs_items"/>
